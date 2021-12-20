@@ -25,23 +25,21 @@ export const letterToIndex = (letter: string): number => {
 }
 
 export const cleanChannel = async (): Promise<void> => {
-    let messages = await channel.messages.fetch();
-    for (let message of messages.array()) {
-        await message.delete();
-    }
+    let fetched = await channel.messages.fetch({limit: 100});
+    await channel.bulkDelete(fetched);
 }
 
 export const postQuestion = async (): Promise<void> => {
     let question: Question = questions[Math.floor(Math.random() * questions.length)];
     lastQuestion = question;
     let embed: MessageEmbed = new MessageEmbed();
-    embed.setColor(Math.floor(Math.random() * 16777215).toString(16));
-    embed.setTitle("<:LX_quiz:824039573289041920> **__UNSER QUIZDUELL__** <:LX_quiz:824039573289041920>");
-    embed.setDescription(`» ${question.text}\n\n**__ANTWORTMÖGLICHKEITEN:__**\n\nA **➔** ${question.answers[0].text}\nB **➔** ${question.answers[1].text}\nC **➔** ${question.answers[2].text}\nD **➔** ${question.answers[3].text}\n\n<a:LX_arrow:821751637348450374> Siehe deine Statistiken mit -stats & die Bestenliste mit -top!`)
+    embed.setColor('RANDOM');
+    embed.setTitle("<a:ol_umfrage:833356248035622932> **__UNSER QUIZDUELL__** <a:ol_umfrage:833356248035622932>");
+    embed.setDescription(`» ${question.text}\n\n**__ANTWORTMÖGLICHKEITEN:__**\n\nA **➔** ${question.answers[0].text}\nB **➔** ${question.answers[1].text}\nC **➔** ${question.answers[2].text}\nD **➔** ${question.answers[3].text}\n\n<:ol_pfeilrot:919379068930109480> Siehe deine Statistiken mit -stats & die Bestenliste mit -top!`)
     embed.setFooter("» Tippe die jeweils richtige Antwort in den Chat, um Punkte zu bekommen!😄");
     embed.setThumbnail('https://cdn.discordapp.com/attachments/726161126529826827/824043290562396240/Question-test-exam-paper-problem-512.png');
 
-    lastQuestionMessage = await channel.send(embed);
+    lastQuestionMessage = await channel.send({embeds:[embed]});
 }
 
 const isNumeric = (value: string): boolean => {

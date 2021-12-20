@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "skipLibCheck": true,
     "module": "CommonJS",
     "moduleResolution": "Node",
     "target": "ES2020",

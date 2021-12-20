@@ -5,7 +5,7 @@ import {
   TextChannel,
   MessageEmbed,
   Permissions,
-  
+
 } from 'discord.js';
 import { client, connection } from '../App';
 import Question from '../Quiz/Question';
@@ -21,7 +21,7 @@ export default class AddQuestionCommand extends Command {
     channel: TextChannel,
     args: string[],
   ): Promise<void> {
-    if (!member.hasPermission('ADMINISTRATOR') && !(member.user.id === '440156582689374209')) return;
+    if (!member.permissions.has(Permissions.FLAGS.ADMINISTRATOR)) return;
     let message: string = args.join(' ').trim();
     let customArgs: string[] = message.split('|');
     if (customArgs.length != 6) {
@@ -45,10 +45,10 @@ export default class AddQuestionCommand extends Command {
     let questionData: any = JSON.parse(rawJson);
     questionData.question[customArgs[0].trim()] = answerData;
     await fs.writeFile('./fragen.json', JSON.stringify(questionData, null, 4));
-    let json = JSON.parse(rawJson); 
-    let fragen = parseInt(Object.keys(json.question).length)
+    let json = JSON.parse(rawJson);
+    let fragen = Object.keys(json.question).length
     fragen = fragen+1
-    await channel.send( 
+    await channel.send(
       'Frage hinzugefügt.\nFragen insgesamt: ' + fragen,
     );
   }

@@ -21,7 +21,13 @@ import AddQuestionCommand from './Command/AddQuestionCommand';
 
 dotenv.config();
 
-export const client: Discord.Client = new Discord.Client();
+export const client: Discord.Client = new Discord.Client({
+    intents: [
+        Discord.Intents.FLAGS.GUILD_MESSAGES |
+        Discord.Intents.FLAGS.GUILD_MEMBERS |
+        Discord.Intents.FLAGS.GUILDS
+    ]
+});
 export let guild: Discord.Guild;
 export let channel: Discord.TextChannel;
 export let connection: Connection;
@@ -45,14 +51,14 @@ export const getCommandByName = (name: string): Command => {
     await loadQuestions();
     client.on("ready", async () => {
         console.log(`Logged in as "${client.user.tag}".`);
-        guild = await client.guilds.fetch('650458489243697222', false, true);
-        channel = (await client.channels.fetch('787428642505359391', false, true)) as Discord.TextChannel;
+        guild = await client.guilds.fetch(process.env.GUILD_ID);
+        channel = (await client.channels.fetch(process.env.CHANNEL_ID)) as Discord.TextChannel;
 
         await cleanChannel();
         await postQuestion();
     });
 
-    client.on("message", async (message) => {
+    client.on("messageCreate", async (message) => {
         if (message.author.id == client.user.id) return;
         if (message.guild.id != guild.id) return;
         if (message.channel.id == channel.id) {
@@ -91,7 +97,7 @@ export const getCommandByName = (name: string): Command => {
                 embed.setColor(0xFF0000);
                 embed.setDescription(`» Das ist falsch ${message.author.username} <a:no:777534307384295454>\n» Die richtige Antwort war **➔** ${rightAnswer.text}\n\n**➔** Du hast noch **${quizUser.points}** Punkte`);
                 embed.setThumbnail('https://cdn.discordapp.com/attachments/726161126529826827/824043290562396240/Question-test-exam-paper-problem-512.png');
-                let msg = await channel.send(embed);
+                let msg = await channel.send({embeds: [embed]});
                 setTimeout(async () => {
                     await msg.delete();
                     await postQuestion();
@@ -108,7 +114,7 @@ export const getCommandByName = (name: string): Command => {
             embed.setColor(0x00FF00);
             embed.setDescription(`» Das ist richtig ${message.author.username} <a:yes:777534104777523231>\n\n**➔** Du hast jetzt **${quizUser.points}** Punkte`);
             embed.setThumbnail('https://cdn.discordapp.com/attachments/726161126529826827/824043290562396240/Question-test-exam-paper-problem-512.png');
-            let msg = await channel.send(embed);
+            let msg = await channel.send({embeds: [embed]});
             setTimeout(async () => {
                 await msg.delete();
                 await postQuestion();
@@ -132,5 +138,5 @@ export const getCommandByName = (name: string): Command => {
 
     });
 
-    await client.login('ODUxNTUyOTAzMzc4MzcwNTg3.YL58cQ.sOJLPUFd3HLcJs-2XCY1mKJmyNA');
+    await client.login(process.env.TOKEN);
 })();
