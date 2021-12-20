@@ -1,0 +1,5261 @@
+{
+    "question": {
+        "Welches Element im Periodensystem der Elemente hat die Ordnungszahl 8?": {
+            "a": "Stickstoff",
+            "b": "Uran",
+            "c": "Sauerstoff",
+            "d": "Helium",
+            "true": "c"
+        },
+        "Auf welcher Buchvorlage beruht der Film Jurassic Park (1993)?": {
+            "a": "DinoWorld von Richard Preston",
+            "b": "Urzeittierpark von Clive Cussler",
+            "c": "DinoPark von Michael Crichton",
+            "d": "Tyrannosaurus von John Grisham",
+            "true": "c"
+        },
+        "Der Winterkrieg wurde vom 30. November 1939 bis zum 13. März 1940 zwischen": {
+            "a": "Finnland und der Sowjetunion ausgetragen",
+            "b": "Frankreich und der Schweiz ausgetragen",
+            "c": "Deutschland und Schweden ausgetragen",
+            "d": "Österreich und Ungarn ausgetragen",
+            "true": "a"
+        },
+        "Was ist eine Zabaglione?": {
+            "a": "ein afrikanisches Instrument",
+            "b": "eine schottische Whiskysorte",
+            "c": "ein viktorianisches Accessoire",
+            "d": "eine italienische Nachspeise",
+            "true": "d"
+        },
+        "Welche dieser Städte in den USA liegt am östlichsten?": {
+            "a": "Denver",
+            "b": "Chicago",
+            "c": "Detroit",
+            "d": "Dallas",
+            "true": "c"
+        },
+        "Welche deutsche Stadt wird auch 'Residenz des Rechts' genannt?": {
+            "a": "München",
+            "b": "Hamburg",
+            "c": "Berlin",
+            "d": "Karlsruhe",
+            "true": "d"
+        },
+        "Wann ereignete sich in der Bundesrepublik Deutschland das sogenannte 'Wirtschaftswunder'?": {
+            "a": "1950er Jahre",
+            "b": "1960er Jahre",
+            "c": "1970er Jahre",
+            "d": "1980er Jahre",
+            "true": "a"
+        },
+        "Welche Insel liegt nicht im Chiemsee?": {
+            "a": "Krautinsel",
+            "b": "Herreninsel",
+            "c": "Fraueninsel",
+            "d": "Blumeninsel",
+            "true": "d"
+        },
+        "Wenn die Lufttemperatur für 24 Stunden unter 0°C bleibt, spricht man von einem": {
+            "a": "Frosttag",
+            "b": "Eiswetter",
+            "c": "Hundstag",
+            "d": "Eistag",
+            "true": "d"
+        },
+        "Die Netzspannung in fast ganz Europa beträgt": {
+            "a": "300 Volt",
+            "b": "300 Volt",
+            "c": "230 Volt",
+            "d": "190 Volt",
+            "true": "c"
+        },
+        "Ein Tag hat": {
+            "a": "2000 Minuten",
+            "b": "1440 Minuten",
+            "c": "1550 Minuten",
+            "d": "720 Minuten",
+            "true": "b"
+        },
+        "Welcher der genannten Flüssen ist der Kürzeste?": {
+            "a": "Rhein",
+            "b": "Donau",
+            "c": "Elbe",
+            "d": "Oder",
+            "true": "d"
+        },
+        "Wie heißt der wasserreichste Süßwassersee der Welt?": {
+            "a": "Baikalsee",
+            "b": "Malawisee",
+            "c": "Großer Bärensee",
+            "d": "Michigansee",
+            "true": "a"
+        },
+        "Die goldene Himbeere ist": {
+            "a": "ein Preis für die schlechteste Leistung innerhalb eines Filmjahres",
+            "b": "eine Nachspeise aus Russland",
+            "c": "das teuerste Schmuckstück der Welt",
+            "d": "das Symbol einer Sekte",
+            "true": "a"
+        },
+        "Das flächenmäßig kleinste Bundesland heißt": {
+            "a": "Berlin",
+            "b": "Bremen",
+            "c": "Saarland",
+            "d": "Hamburg",
+            "true": "b"
+        },
+        "Was bedeutet das lateinische 'carpe diem'?": {
+            "a": "Nutze den Tag",
+            "b": "Genieße das Leben",
+            "c": "Dein Tag wird toll werden,",
+            "d": "Man sieht sich immer zweimal im Leben,",
+            "true": "a"
+        },
+        "Welche Gürtelfarbe kann man im Kampfsport Karate nicht bekommen?": {
+            "a": "Schwarz",
+            "b": "Weiß",
+            "c": "Braun",
+            "d": "Rot",
+            "true": "d"
+        },
+        "Welcher Schauspieler hat noch nie in einem Bond-Film mitgespielt?": {
+            "a": "Timothy Dalton",
+            "b": "Leonardo DiCaprio",
+            "c": "Daniel Craig",
+            "d": "Javier Bardem",
+            "true": "b"
+        },
+        "Wie lang ist der Äquator?": {
+            "a": "rund 30.070km",
+            "b": "rund 40.070km",
+            "c": "rund 60.070km",
+            "d": "rund 80.070km",
+            "true": "b"
+        },
+        "Was ist eine 'Druidin'": {
+            "a": "Eine Kräutersammlerin im Harz",
+            "b": "Eine Hunderasse aus China",
+            "c": "Das Magnetfeld der Erde",
+            "d": "Eine Priesterin oder Zauberin der keltischen Religion",
+            "true": "d"
+        },
+        "Welches Metall leitet Wärme am besten?": {
+            "a": "Silber",
+            "b": "Kupfer",
+            "c": "Gold",
+            "d": "Aluminium",
+            "true": "A"
+        },
+        "In der Mythologie trägt Medusa Schlangen als Haare Welches Tier heißt im wissenschaftlichen auch Medusa?": {
+            "a": "Qualle",
+            "b": "Flusskrebs",
+            "c": "Vogelspinne",
+            "d": "Oktopus",
+            "true": "a"
+        },
+        "Als zweiter Fall oder Wessen-Fall wird welcher Kasus der deutschen Grammatik bezeichnet?": {
+            "a": "Akkusativ",
+            "b": "Nominativ",
+            "c": "Dativ",
+            "d": "Genitiv",
+            "true": "d"
+        },
+        "Die Galileischen Monde sind die vier größten Monde des Planeten": {
+            "a": "Jupiter",
+            "b": "Merkur",
+            "c": "Venus",
+            "d": "Uranus",
+            "true": "a"
+        },
+        "Was ist kein Bundesstaat Australiens?": {
+            "a": "Queensland",
+            "b": "Northland ",
+            "c": "New South Wales",
+            "d": "Victoria",
+            "true": "b"
+        },
+        "Welche Stadt liegt am nördlichsten?": {
+            "a": "Moskau ",
+            "b": "Minsk",
+            "c": "Warschau",
+            "d": "Vilnius",
+            "true": "a"
+        },
+        "Was ist die härteste Substanz im menschlichen Körper?": {
+            "a": "Zahnschmelz ",
+            "b": "Herzmuskel",
+            "c": "Ohrknorpel",
+            "d": "Kehlkopfknorpel",
+            "true": "a"
+        },
+        "Welcher schottische See ist der tiefste?": {
+            "a": "Loch Morar",
+            "b": "Loch Lomond",
+            "c": "Loch Ness",
+            "d": "Loch Maree",
+            "true": "a"
+        },
+        "Wie viele Karten hat ein Skat-Spiel?": {
+            "a": 32,
+            "b": 46,
+            "c": 52,
+            "d": 21,
+            "true": "a"
+        },
+        "Wie schreibt man es richtig?": {
+            "a": "Karoserie",
+            "b": "Karrosseri",
+            "c": "Karrosserie",
+            "d": "Karosserie",
+            "true": "d"
+        },
+        "Wann wurde der Deutsche Kinderschutzbund gegründet?": {
+            "a": 1966,
+            "b": 1953,
+            "c": 1977,
+            "d": 1987,
+            "true": "b"
+        },
+        "Welcher afrikanische Staat ist der Fläche nach der größte?": {
+            "a": "Sudan",
+            "b": "Libyen",
+            "c": "Mali",
+            "d": "Algerien",
+            "true": "d"
+        },
+        "Was beendete den Dreißigjährigen Krieg in Deutschland?": {
+            "a": "Westfälischer Friede",
+            "b": "Münsteraner Beschlüsse",
+            "c": "Ostwestfälische Versöhnung",
+            "d": "Osnabrücker Pakt",
+            "true": "A"
+        },
+        "Das Erzgebirge liegt in Deutschland, Wo noch?": {
+            "a": "Österreich",
+            "b": "Schweiz",
+            "c": "Tschechien ",
+            "d": "Frankreich",
+            "true": "c"
+        },
+        "Was ist die Quersumme von 34,052?": {
+            "a": 14,
+            "b": 5,
+            "c": 0,
+            "d": "34,052",
+            "true": "a"
+        },
+        "Wie lange währt eine Amtszeit des US-amerikanischen Präsidenten?": {
+            "a": "sechs Jahre",
+            "b": "vier Jahre",
+            "c": "zwei Jahre",
+            "d": "fünf Jahre",
+            "true": "b"
+        },
+        "Welche beiden Länder verbindet der Eurotunnel?": {
+            "a": "Vereinigtes Königreich und Frankreich",
+            "b": "Griechenland und Italien",
+            "c": "Vereinigtes Königreich und Irland",
+            "d": "Dänemark und Schweden",
+            "true": "a"
+        },
+        "Wann fand der Erste Golfkrieg statt?": {
+            "a": "1954 bis 1964",
+            "b": "1993 bis 2001",
+            "c": "1966 bis 1977",
+            "d": "1980 bis 1988",
+            "true": "d"
+        },
+        "In welchem Land wird mit Baht bezahlt?": {
+            "a": "Singapur",
+            "b": "Thailand",
+            "c": "Indonesien",
+            "d": "Vietnam",
+            "true": "b"
+        },
+        "Wie viele Sterne sind auf der australischen Flagge abgebildet?": {
+            "a": "acht",
+            "b": "zehn",
+            "c": "sechs ",
+            "d": "fünf",
+            "true": "c"
+        },
+        "Wer trägt den Fischerring?": {
+            "a": "Priester",
+            "b": "Papst",
+            "c": "Pastor",
+            "d": "Bischof",
+            "true": "b"
+        },
+        "Ein Fußballtor ist nach den von der Fifa vorgeschriebenen Standards 7,32 Meter breit, Aber wie breit ist ein Handballtor?": {
+            "a": "2,00 Meter",
+            "b": "3,00 Meter",
+            "c": "4,00 Meter",
+            "d": "2,50 Meter",
+            "true": "b"
+        },
+        "Es ist eine allgemein anerkannte Wahrheit, dass ein alleinstehender Mann, der ein beträchtliches Vermögen besitzt, einer Frau bedarf. Welcher weltliterarische Roman beginnt mit diesem Satz?": {
+            "a": "Stolz und Vorurteil",
+            "b": "Eine Geschichte aus zwei Städten",
+            "c": "Vom Winde verweht",
+            "d": "Rebecca",
+            "true": "a"
+        },
+        "Der Haupteingang des Louvre ist": {
+            "a": "Ein Spiegelkabinett",
+            "b": "Ein Glaswürfel",
+            "c": "Eine normale Tür",
+            "d": "Eine Glaspyramide",
+            "true": "d"
+        },
+        "In welchem Land liegt die Region Umbrien?": {
+            "a": "Ungarn",
+            "b": "Italien",
+            "c": "Tschechien",
+            "d": "Spanien",
+            "true": "b"
+        },
+        "Welches Land hat die wenigsten Einwohner? (Stand: 2020)": {
+            "a": "Niederlande",
+            "b": "Dänemark",
+            "c": "Griechenland",
+            "d": "Neuseeland",
+            "true": "D"
+        },
+        "Wie viele Ecken hat ein Kegel?": {
+            "a": "drei",
+            "b": "eine",
+            "c": "zwei",
+            "d": "keine",
+            "true": "D"
+        },
+        "In welchem Zeitraum regierte George W. Bush die USA?": {
+            "a": "2001 bis 2009",
+            "b": "1989 bis 1993",
+            "c": "1981 bis 1989",
+            "d": "1993 bis 2001",
+            "true": "a"
+        },
+        "Welcher der hier genannten US-Bundesstaaten ist in Bezug auf die Gesamtfläche der Größte?": {
+            "a": "Alaska",
+            "b": "Florida",
+            "c": "Nevada",
+            "d": "Arizona",
+            "true": "a"
+        },
+        "Wie werden Schnurrhaare noch genannt?": {
+            "a": "Dibrissen",
+            "b": "Vibrissen",
+            "c": "Zibrissen",
+            "d": "Sibrissen",
+            "true": "b"
+        },
+        "Welcher Buchstabe gibt 10 Punkte im deutschsprachigen Scrabble?": {
+            "a": "Ö",
+            "b": "Z",
+            "c": "Ä",
+            "d": "Q",
+            "true": "d"
+        },
+        "Wie heißt der kleinste der acht Handwurzelknochen?": {
+            "a": "Linsenknorpel",
+            "b": "Bohnenbein",
+            "c": "Seitanknochen",
+            "d": "Erbsenbein",
+            "true": "d"
+        },
+        "Wie heißen die beiden zentralen Figuren in Arthur Schnitzlers \"Traumnovelle\" (1925)?": {
+            "a": "Fridolin und Albertine",
+            "b": "Gwendolin und Edward",
+            "c": "Carla und Philipp",
+            "d": "Isabella und Jakob",
+            "true": "a"
+        },
+        "Wie viele Herzklappen hat der Mensch?": {
+            "a": "eine",
+            "b": "vier",
+            "c": "drei",
+            "d": "zwei",
+            "true": "b"
+        },
+        "Wo wurde Galileo Galilei am 15, Februar 1564 geboren?": {
+            "a": "Florenz",
+            "b": "Pisa",
+            "c": "Rom",
+            "d": "Nizza",
+            "true": "b"
+        },
+        "Welches amerikanische Bundesland grenzt nicht an Texas?": {
+            "a": "Oklahoma",
+            "b": "Kansas",
+            "c": "Louisiana",
+            "d": "New Mexico",
+            "true": "d"
+        },
+        "Mit welcher Schlacht wurde Napoleon 1815 endgültig gestürzt?": {
+            "a": "Schlacht bei Wagram",
+            "b": "Völkerschlacht bei Leipzig",
+            "c": "Schlacht von Trafalgar",
+            "d": "Schlacht bei Waterloo",
+            "true": "d"
+        },
+        "Was ist eine Waldschnepfe?": {
+            "a": "ein Kaninchen",
+            "b": "eine Waldbeere",
+            "c": "ein Pilz",
+            "d": "ein Vogel",
+            "true": "d"
+        },
+        "Wer heißt mit bürgerlichem Namen Jorge Mario Bergoglio?": {
+            "a": "Anthony Hopkins",
+            "b": "Ricky Martin",
+            "c": "Francisco Franco",
+            "d": "Papst Franziskus",
+            "true": "d"
+        },
+        "Welcher Staat hat keine direkte Verbindung zum offenen Meer?": {
+            "a": "Polen",
+            "b": "Paraguay",
+            "c": "Iran",
+            "d": "Uruguay",
+            "true": "b"
+        },
+        "Wie bezeichnet man einen menschenähnlichen Unhold in Märchen und Sagen?": {
+            "a": "Uger",
+            "b": "Oger",
+            "c": "Eger",
+            "d": "Ager",
+            "true": "b"
+        },
+        "In welchem Jahr sagte John F, Kennedy den berühmten Satz \"Ich bin ein Berliner\"?": {
+            "a": 1956,
+            "b": 1989,
+            "c": 1976,
+            "d": 1963,
+            "true": "d"
+        },
+        "Was kann ein Mensch mit Prosopagnosie nicht?": {
+            "a": "im Kreis laufen",
+            "b": "Gesichter erkennen",
+            "c": "tiefe Töne hören",
+            "d": "langsam sprechen",
+            "true": "b"
+        },
+        "Wenn jemand etwas vollkommen Überflüssiges tut, dann": {
+            "a": "zählt er die Flecken von Giraffen",
+            "b": "sucht er den Kuckuck im Wald",
+            "c": "macht er ein Wettrennen mit Löwen",
+            "d": "trägt er Eulen nach Athen",
+            "true": "d"
+        },
+        "Die Formel O3 steht für?": {
+            "a": "Benzol",
+            "b": "Chlor",
+            "c": "Methan",
+            "d": "Ozon",
+            "true": "d"
+        },
+        "In welcher Sportart sind die Bundesligaspiele der Herren in Deutschland am kürzesten?": {
+            "a": "Handball",
+            "b": "Fußball",
+            "c": "Basketball",
+            "d": "Volleyball",
+            "true": "c"
+        },
+        "Welches Bundesministerium wurde seit dessen Gründung in der Bundesrepublik Deutschland bisher mehrheitlich von Frauen geführt?": {
+            "a": "Bildungsministerium",
+            "b": "Gesundheitsministerium",
+            "c": "Umweltministerium",
+            "d": "Justizministerium",
+            "true": "b"
+        },
+        "Wohin muss man reisen, um zur nördlichsten Landesstelle Deutschlands zu gelangen?": {
+            "a": "Nasenspitze",
+            "b": "Ellenbogen",
+            "c": "Bauchnabel",
+            "d": "Schamhaar",
+            "true": "b"
+        },
+        "An welchem Datum fiel die Berliner Mauer?": {
+            "a": " 3, Oktober 1990",
+            "b": " 2, November 1990",
+            "c": " 9, November 1989",
+            "d": " 8, Oktober 1989",
+            "true": "c"
+        },
+        "Wer ist Rekordtorschütze der Bundesliga?": {
+            "a": "Klaus Fischer",
+            "b": "Jupp Heynckes",
+            "c": "Manfred Burgsmüller",
+            "d": "Gerd Müller",
+            "true": "d"
+        },
+        "In welcher Einheit wird der elektrische Widerstand gemessen?": {
+            "a": "Ohm",
+            "b": "Volt",
+            "c": "Ampere",
+            "d": "Watt",
+            "true": "A"
+        },
+        "Wer wählt den Bundespräsidenten?": {
+            "a": "Bundeskanzler",
+            "b": "Bundestag",
+            "c": "Bundesrat",
+            "d": "Bundesversammlung",
+            "true": "D"
+        },
+        "Wie heißt die Hauptstadt der Slowakei?": {
+            "a": "Sofia",
+            "b": "Prag",
+            "c": "Bratislava",
+            "d": "Ljubljan",
+            "true": "C"
+        },
+        "Wie viele Zähne hat ein erwachsener Mensch normalerweise?": {
+            "a": "26",
+            "b": "30",
+            "c": "32",
+            "d": "36",
+            "true": "C"
+        },
+        "Welche Stadt gibt es wirklich?": {
+            "a": "Uppsala",
+            "b": "Platzda",
+            "c": "Fallada",
+            "d": "Hoppla",
+            "true": "a"
+        },
+        "Welches ist das Markenzeichen von Sebastian Vettel?": {
+            "a": "Vettel-Finger",
+            "b": "Vettel-Faust",
+            "c": "Vettel-Hecht",
+            "d": "Vettel-Säge",
+            "true": "a"
+        },
+        "Wie viele Knochen hat der Körper eines Erwachsenen?": {
+            "a": "53 Knochen",
+            "b": "164 Knochen",
+            "c": "206 Knochen",
+            "d": "221 Knochen",
+            "true": "c"
+        },
+        "Wie heißt die Landeshauptstadt von Rheinland-Pfalz?": {
+            "a": "Koblenz",
+            "b": "Mainz",
+            "c": "Heidelberg",
+            "d": "Potsdam",
+            "true": "b"
+        },
+        "Welches der folgenden Tiere hält keinen Winterschlaf?": {
+            "a": "Igel",
+            "b": "Eichhörnchen",
+            "c": "Murmeltier",
+            "d": "Siebenschläfer",
+            "true": "b"
+        },
+        "Wie oft wurde England bereits Fußball-Weltmeister?": {
+            "a": "1 Mal",
+            "b": "2 Mal",
+            "c": "3 Mal",
+            "d": "22 Mal",
+            "true": "a"
+        },
+        "Wie viele Tasten hat üblicherweise ein Klavier?": {
+            "a": 66,
+            "b": 77,
+            "c": 88,
+            "d": 99,
+            "true": "c"
+        },
+        "Wie viele Planeten gehören zu unserem Sonnensystem?": {
+            "a": 3,
+            "b": 8,
+            "c": 6,
+            "d": 10,
+            "true": "B"
+        },
+        "Wer stellt die Frage: \"Sein oder Nichtsein?\"": {
+            "a": "Oscar Wilde",
+            "b": "Charles Dickens",
+            "c": "Jane Austen",
+            "d": "William Shakespeare",
+            "true": "d"
+        },
+        "Was ist eine IP-Adresse?": {
+            "a": "Eine Netzwerkadresse im Internet, die für jedes Gerät in einem Netzwerk nur einmal vergeben wird",
+            "b": "Eine geheime Adresse, welche Menschen aus dem Zeugenschutzprogramm erhalten,",
+            "c": "Die Adresse, welche E-Mails empfängt,",
+            "d": "Die Adresse benötigt man, um Geocaching zu betreiben,",
+            "true": "a"
+        },
+        "Der Schmelzpunkt von Eisen (Fe) liegt bei?": {
+            "a": "1538 °C,",
+            "b": "150 °C,",
+            "c": "2015 °C,",
+            "d": "1925 °C,",
+            "true": "a"
+        },
+        "Wo sitzt das Europäische Parlament?": {
+            "a": "Brüssel",
+            "b": "Zürich",
+            "c": "Straßburg",
+            "d": "Berlin",
+            "true": "c"
+        },
+        "Albert Einstein erhielt 1921 den Nobelpreis für Physik, Aus welcher Stadt stammt er?": {
+            "a": "Ulm",
+            "b": "New Jersey",
+            "c": "Erfurt",
+            "d": "Boston",
+            "true": "a"
+        },
+        "Welches ist das größte Organ des Körpers?": {
+            "a": "Lunge",
+            "b": "Darm",
+            "c": "Haut",
+            "d": "Nieren",
+            "true": "c"
+        },
+        "Welche Metropole der Welt hat die meisten Einwohner?": {
+            "a": "Tokio",
+            "b": "New York",
+            "c": "Delhi",
+            "d": "Peking",
+            "true": "a"
+        },
+        "Wie weit ist ein Lichtjahr in Kilometer (km)?": {
+            "a": "10 Millionen km",
+            "b": "22 Billionen km",
+            "c": "2 Millionen km",
+            "d": "9,5 Billionen km",
+            "true": "d"
+        },
+        "Welche Länder haben nach Brasilien die meisten WM-Titel erspielt?": {
+            "a": "Deutschland (4x) und Italien (4x)",
+            "b": "Deutschland und Argentinien",
+            "c": "Italien und Argentinien",
+            "d": "Italien und Uruguay",
+            "true": "a"
+        },
+        "Welche ist die größte Insel der Welt?": {
+            "a": "Grönland",
+            "b": "Madagaskar",
+            "c": "Großbritannien",
+            "d": "Neuguinea",
+            "true": "a"
+        },
+        "Wo entstand die erste Briefmarke der Welt?": {
+            "a": "Spanien",
+            "b": "Deutschland",
+            "c": "England",
+            "d": "China",
+            "true": "c"
+        },
+        "Welches ist das höchste Gebäude der Welt?": {
+            "a": "Taipei 101, Taipeh",
+            "b": "Burj Khalifa, Dubai",
+            "c": "One World Trade Center, New York City",
+            "d": "Ping An Finance Center, Shenzhen",
+            "true": "b"
+        },
+        "Was ist die meistgesprochene Muttesprache weltweit?": {
+            "a": "Hindi",
+            "b": "Englisch",
+            "c": "Spanisch",
+            "d": "Chinesisch",
+            "true": "d"
+        },
+        "Was ist eine Hypotenuse?": {
+            "a": "längste Seite eines rechtwinkligen Dreiecks",
+            "b": "die kurze Seite eines rechtwinkligen Dreiecks",
+            "c": "der Längsschnitt eines Rechtecks",
+            "d": "der Durchmesser einer Kugel",
+            "true": "a"
+        },
+        "In welcher Stadt Deutschlands leben die zweitmeisten Menschen?": {
+            "a": "München",
+            "b": "Frankfurt am Main",
+            "c": "Köln",
+            "d": "Hamburg",
+            "true": "d"
+        },
+        "Bis wann blieb die Deutsche Mark Zahlungsmittel in der Bundesrepublik Deutschland?": {
+            "a": "3, Oktober 1990",
+            "b": "9, November 1989",
+            "c": "31, Dezember 2001",
+            "d": "31, Dezember 2002",
+            "true": "c"
+        },
+        "Am Karfreitag gedenken Christen": {
+            "a": "der Kreuzigung Jesu",
+            "b": "der Wunder von Jesus",
+            "c": "der Auferstehung von Jesus",
+            "d": "der Taufe von Jesus",
+            "true": "a"
+        },
+        "Wie heißt der Erfinder der Zahl \"0\"?": {
+            "a": "Sokrates",
+            "b": "Aryabhata",
+            "c": "Euklid",
+            "d": "Archimedes",
+            "true": "b"
+        },
+        "Was ist auf der Rückseite der deutschen 2-Euro-Münze zu sehen?": {
+            "a": "der erste Bundespräsident Theodor Heuss",
+            "b": "der Bundestag",
+            "c": "der erste deutsche Bundeskanzler Konrad Adenauer",
+            "d": "der Bundesadler",
+            "true": "d"
+        },
+        "Wie weit ist der Mond von der Erde entfernt?": {
+            "a": "Circa 390.000 Kilometer",
+            "b": "Circa 110.000 Kilometer",
+            "c": "Circa 30.000 Kilometer",
+            "d": "Circa 490.000 Kilometer",
+            "true": "A"
+        },
+        "Welches Gebirge stellt einen Teil der asiatisch-europäischen Grenze dar?": {
+            "a": "Ural",
+            "b": "Dolomiten",
+            "c": "Pyrenäen",
+            "d": "Kaukasus",
+            "true": "a"
+        },
+        "Wie heißt die ungarische Währung?": {
+            "a": "Lira",
+            "b": "Forint",
+            "c": "Euro",
+            "d": "Złoty",
+            "true": "b"
+        },
+        "Wo steht die Porta Nigra?": {
+            "a": "Mannheim",
+            "b": "Heidelberg",
+            "c": "Trier",
+            "d": "Dresden",
+            "true": "c"
+        },
+        "Unter welchem Namen kennt man Schnittlauch noch?": {
+            "a": "Juliuswurzel",
+            "b": "Michaellauch",
+            "c": "Heinrichstrauch",
+            "d": "Jakobszwiebel",
+            "true": "d"
+        },
+        "Was stellt die Große Sphinx von Gizeh dar?": {
+            "a": "einen Menschen mit Adlerkopf",
+            "b": "eine Schlange mit Menschenkopf",
+            "c": "einen Menschen mit Pferdekopf",
+            "d": "einen Löwen mit Menschenkopf",
+            "true": "d"
+        },
+        "Wie heißt ein bekannter Nebenfluss des Rheins?": {
+            "a": "Po",
+            "b": "Nase",
+            "c": "Backe",
+            "d": "Lippe",
+            "true": "d"
+        },
+        "Welcher Politiker ist nicht Teil des Bundeskabinetts?": {
+            "a": "Gerd Müller",
+            "b": "Markus Söder",
+            "c": "Christine Lambrecht",
+            "d": "Franziska Giffey",
+            "true": "b"
+        },
+        "Wo kann man die berühmte Terrakotta-Armee bestaunen?": {
+            "a": "in der Mongolei",
+            "b": "in China",
+            "c": "in Japan",
+            "d": "in Vietnam",
+            "true": "d"
+        },
+        "Welchen Namen trägt die erste Raumstation der Welt?": {
+            "a": "Tiangong 1",
+            "b": "Skylab",
+            "c": "Kosmos 557",
+            "d": "Saljut 1",
+            "true": "d"
+        },
+        "Nüsse sind gesund, solange man die richtige Menge verspeist, Was wird pro Tag empfohlen?": {
+            "a": "eine Handvoll",
+            "b": "zwei Handvoll",
+            "c": "drei Handvoll",
+            "d": "sieben Kilogramm (take the l looser brrrrr)",
+            "true": "a"
+        },
+        "Wie lang ist der Große Afrikanische Grabenbruch?": {
+            "a": "rund 10,000 Kilometer",
+            "b": "rund 6,000 Kilometer",
+            "c": "rund 15,000 Kilometer",
+            "d": "rund 8,000 Kilometer",
+            "true": "b"
+        },
+        "Welcher Verein verfügt über die meisten Titelgewinne in der UEFA Champions League? (Stand: 2020, Statista)": {
+            "a": "Real Madrid",
+            "b": "Manchester City",
+            "c": "FC Bayern München",
+            "d": "FC Barcelona",
+            "true": "a"
+        },
+        "Welche Temperatur herrscht etwa im inneren Erdkern?": {
+            "a": "mehr als 5,000 Grad",
+            "b": "1,000-2,000 Grad",
+            "c": "2,000-3,000 Grad",
+            "d": "3,000-4,000 Grad",
+            "true": "a"
+        },
+        "Auf welchem Kontinent befindet sich der Uluru?": {
+            "a": "Asien",
+            "b": "Australien",
+            "c": "Südamerika",
+            "d": "Europa",
+            "true": "b"
+        },
+        "Was ist das Formelzeichen für die Basisgröße Zeit?": {
+            "a": "T",
+            "b": "t",
+            "c": "z",
+            "d": "m",
+            "true": "b"
+        },
+        "Welche Stadt ist die südlichste Europas?": {
+            "a": "Ankara",
+            "b": "Athen",
+            "c": "Valletta",
+            "d": "Bukarest",
+            "true": "c"
+        },
+        "Wo liegt der Hundeäquator?": {
+            "a": "Island",
+            "b": "Norwegen",
+            "c": "Finnland",
+            "d": "Grönland",
+            "true": "d"
+        },
+        "Was ist eine Pickelhaube?": {
+            "a": "eine Kopfbedeckung",
+            "b": "die Spitze eines eitrigen Pickels",
+            "c": "ein Küchengerät",
+            "d": "ein Gerät zum Lockenformen",
+            "true": "a"
+        },
+        "Wieviele Menschen leben in Europa?": {
+            "a": "etwa 900 Millionen",
+            "b": "etwa 300 Millionen",
+            "c": "etwa 1 Milliarde",
+            "d": "etwa 750 Millionen",
+            "true": "d"
+        },
+        "Welches Lebensmittel hat am meisten Vitamin A?": {
+            "a": "Paprika",
+            "b": "Petersilie",
+            "c": "Spinat",
+            "d": "Feldsalat",
+            "true": "b"
+        },
+        "Welches Land ist kein Nato-Mitglied?": {
+            "a": "Portugal",
+            "b": "Polen",
+            "c": "Schweden",
+            "d": "Island",
+            "true": "c"
+        },
+        "Wann fand der 1, Weltkrieg statt?": {
+            "a": "1913–1919",
+            "b": "1914–1918",
+            "c": "1939–1945",
+            "d": "1940–1945",
+            "true": "b"
+        },
+        "Wann fand der 2, Weltkrieg statt?": {
+            "a": "1920-1928",
+            "b": "1939-1945",
+            "c": "1945-1951",
+            "d": "1935-1942",
+            "true": "b"
+        },
+        "Wie viele Menschen überlebten den Untergang der Titanik?": {
+            "a": 1495,
+            "b": 376,
+            "c": 1298,
+            "d": 712,
+            "true": "d"
+        },
+        "Wie viele Bundesländer grenzen an Baden-Württemberg?": {
+            "a": "Vier",
+            "b": "Drei",
+            "c": "Eines",
+            "d": "Zwei",
+            "true": "b"
+        },
+        "Wofür steht die Zahl Pi?": {
+            "a": "für das Verhältnis von Umfang eines Kreises zum Durchmesser",
+            "b": "für das Verhältnis von Masse zur Beschleunigung",
+            "c": "für das Seitenverhältnis im rechtwinkligen Dreieck",
+            "d": "für das Seitenverhältnis im rechtwinkligen Dreieck",
+            "true": "a"
+        },
+        "Welcher dieser Staaten liegt nicht in Südasien?": {
+            "a": "Bhutan",
+            "b": "Jemen",
+            "c": "Sri Lanka",
+            "d": "Malaysia",
+            "true": "b"
+        },
+        "Wieviele Besucher hat das Oktoberfest jährlich circa?": {
+            "a": "1,000,000",
+            "b": "750,000",
+            "c": "345,000",
+            "d": "6,000,000",
+            "true": "d"
+        },
+        "Was ist der Quotient?": {
+            "a": "das Ergebnis einer Divisionsaufgabe",
+            "b": "ein Kuchen, von <@454631784043511816> persönlich gebacken",
+            "c": "das Endergebnis einer Subtraktion",
+            "d": "die Quersumme einer Zahl",
+            "true": "a"
+        },
+        "Wie viel Liter Urin scheidet ein gesunder erwachsener Mensch aus?": {
+            "a": "2 Liter",
+            "b": "0,7 Liter",
+            "c": "5 Liter",
+            "d": "0,5 Liter",
+            "true": "a"
+        },
+        "Welche Nation führte 1939, zum Beginn des Zweiten Weltkrieges, den ersten militärischen Schlag aus?": {
+            "a": "Sowjetunion,",
+            "b": "Deutsches Reich,",
+            "c": "USA,",
+            "d": "Frankreich",
+            "true": "B"
+        },
+        "Wie groß muss die Winkelsumme im Viereck sein?": {
+            "a": "180 °",
+            "b": "270 °",
+            "c": "360 °",
+            "d": "90 °",
+            "true": "C"
+        },
+        "Das teuerste Gemälde \"Salvato Mundi\" von Leonardo da Vinci wurde verkauft für:": {
+            "a": "266 Mio, Euro",
+            "b": "177 Mio, Euro ",
+            "c": "382 Mio, Euro",
+            "d": "173 Mio, Euro",
+            "true": "c"
+        },
+        "Wie viel Gramm entspricht einer Tonne?": {
+            "a": "1,000,000g",
+            "b": "100,000g",
+            "c": "10,000g",
+            "d": "1000g",
+            "true": "a"
+        },
+        "Wie viele Leute sind am Tag des Terroranschlags dem 11, Septembers 2001 gestorben?": {
+            "a": 9373,
+            "b": 2638,
+            "c": 4732,
+            "d": 2977,
+            "true": "d"
+        },
+        "Wer war der erste Bundeskanzler der Bundesrepublik Deutschland?": {
+            "a": "Helmut Schmidt",
+            "b": "Willy Brandt",
+            "c": "Ludwig Erhard",
+            "d": "Konrad Adenauer",
+            "true": "d"
+        },
+        "In welchem Jahr wurde die NATO gegründet?": {
+            "a": 1950,
+            "b": 1949,
+            "c": 1974,
+            "d": 1924,
+            "true": "b"
+        },
+        "Eines der sieben Weltwunder ist der Koloss von ... ?": {
+            "a": "Ephesos",
+            "b": "Gizeh",
+            "c": "Rhodus",
+            "d": "Olympia",
+            "true": "c"
+        },
+        "Das Grammofon wurde 1887 von": {
+            "a": "Thomas Alva Edison erfunden,",
+            "b": "Charles Cros erfunden",
+            "c": "Emil Berliner erfunden,",
+            "d": "Alexander Graham Bell erfunden,",
+            "true": "c"
+        },
+        "Zinn hat welches Elementsymbol im PSE (Periodensystem der Elemente)?": {
+            "a": "Si",
+            "b": "Zn",
+            "c": "Zi",
+            "d": "Sn",
+            "true": "d"
+        },
+        "Wie heißt die Hauptstadt von Madagaskar?": {
+            "a": "Victoria",
+            "b": "Antananarivo",
+            "c": "Saint-Denis",
+            "d": "Port Louis",
+            "true": "B"
+        },
+        "Viele Fische besitzen einen sogenannten": {
+            "a": "Elektrosinn",
+            "b": "Giftsinn",
+            "c": "Magnetsinn",
+            "d": "Siebenschläfersinn",
+            "true": "a"
+        },
+        "Welche dieser Städte liegt am nördlichsten?": {
+            "a": "Wolfsburg",
+            "b": "Hildesheim",
+            "c": "Braunschweig",
+            "d": "Magdeburg",
+            "true": "a"
+        },
+        "Warum züngeln Schlangen?": {
+            "a": "um ihre Temperatur zu regulieren",
+            "b": "um den Feind zu verschrecken",
+            "c": "um Duftmoleküle aus der Luft aufzunehmen",
+            "d": "um Sauerstoff in die Lunge zu befördern",
+            "true": "c"
+        },
+        "Wo ist die Sehenswürdigkeit \"Zwinger\" zu finden?": {
+            "a": "Dresden",
+            "b": "Wien",
+            "c": "München",
+            "d": "Bern",
+            "true": "a"
+        },
+        "In welchem Land befindet sich der Vulkan Hekla?": {
+            "a": "Bolivien",
+            "b": "Italien",
+            "c": "Argentinien",
+            "d": "Island",
+            "true": "d"
+        },
+        "Wie viele Zähne hat ein Hai im Laufe seines Lebens?": {
+            "a": "bis zu 2,000",
+            "b": "bis zu 10,000",
+            "c": "bis zu 15,000",
+            "d": "bis zu 20,000",
+            "true": "d"
+        },
+        "Welcher sibirische Fluss ist knapp drei Mal so lang wie der Rhein und zählt zu den zehn längsten Flüssen der Erde?": {
+            "a": "",
+            "b": "Als",
+            "c": "Ob",
+            "d": "Damit",
+            "true": "c"
+        },
+        "In Deutschland befinden sich genauso viele Bundesländer wie …": {
+            "a": "Nationalparks",
+            "b": "Großstädte",
+            "c": "UNESCO-Welterbestätten",
+            "d": "Berge über 3,000 Meter",
+            "true": "b"
+        },
+        "Wie viel Liter Blut hat ein erwachsener Mensch?": {
+            "a": "ca. 3-4 Liter",
+            "b": "ca. 5-6 Liter",
+            "c": "ca. 7-9 Liter",
+            "d": "ca. 9-10 Liter",
+            "true": "b"
+        },
+        "Auf die Romanik folgte die Epoche …": {
+            "a": "Barock",
+            "b": "Gotik",
+            "c": "Renaissance",
+            "d": "Antike",
+            "true": "b"
+        },
+        "Wie hieß der erste Reichspräsident der Weimarer Republik?": {
+            "a": "Konrad Adenauer",
+            "b": "Heinrich Brüning",
+            "c": "Paul von Hindenburg",
+            "d": "Friedrich Ebert",
+            "true": "d"
+        },
+        "Was ist das Bruttoinlandsprodukt?": {
+            "a": "Die Summe aller erbrachten Leistungen, Güter und Dienstleistungen, die eine Volkswirtschaft in einem Jahr zur letzten Verwendung erbringt",
+            "b": "Die Differenz aller Leistungen, Güter und Dienstleistungen, die eine Volkswirtschaft im Vergleich zum Vorjahr erbringt",
+            "c": "Die Differenz aller Leistungen, Güter und Dienstleistungen, die die Weltwirtschaft im Vergleich zum Vorjahr erbringt",
+            "d": "Die Summe aller Leistungen, Güter und Dienstleistungen, die die Weltwirtschaft pro Jahr zur letzten Verwendung erbringt",
+            "true": "a"
+        },
+        "Was versteht man unter dem Begriff „Inflation“": {
+            "a": "Preisniveaustabilität",
+            "b": "Anstieg des Preisniveaus",
+            "c": "Sinkende Preise",
+            "d": "Abfall des Geldwertes",
+            "true": "d"
+        },
+        "Was bedeutet „DAX“?": {
+            "a": "Deutscher Aktienhandel",
+            "b": "Deutsche Aufsicht für Indizes",
+            "c": "Deutsche Agentur für Indizes",
+            "d": "Deutscher Aktienindex",
+            "true": "d"
+        },
+        "Welches ist das Symbol für die Olympischen Spiele?": {
+            "a": "fünf Sterne",
+            "b": "sechs bunte Ringe",
+            "c": "vier farbige Kreise",
+            "d": "fünf verschlungene Ringe",
+            "true": "d"
+        },
+        "Wie lange benötigt Licht, um von der Sonne zur Erde zu gelangen?": {
+            "a": "8 Minuten 19 Sekunden",
+            "b": "13 Minuten 24 Sekunden",
+            "c": "1 Stunden 2 Minuten",
+            "d": "1 Stunden 8 Minuten",
+            "true": "a"
+        },
+        "Welcher Teil der Zelle ist für die Energieversorgung verantwortlich?": {
+            "a": "Mitochondrien",
+            "b": "Zellmantel",
+            "c": "DNA",
+            "d": "Zellkern",
+            "true": "a"
+        },
+        "Was ist ein Elektron?": {
+            "a": "ein chemisches Element",
+            "b": "ein elektrisch geladenes Proton",
+            "c": "ein elektrisch geladenes Neutron",
+            "d": "ein negativ geladenes Elementarteilchen",
+            "true": "d"
+        },
+        "Wie heißt der größte Fisch der Welt?": {
+            "a": "Weißer Hai",
+            "b": "Stör",
+            "c": "Mondfisch",
+            "d": "Walhai",
+            "true": "d"
+        },
+        "Welchem Vogel kann man nicht das Sprechen beibringen?": {
+            "a": "Rabe",
+            "b": "Papagei",
+            "c": "Wellensittich",
+            "d": "Beo",
+            "true": "a"
+        },
+        "In welchem Jahr landete der Rover Pathfinder auf dem Mars?": {
+            "a": 1997,
+            "b": 2001,
+            "c": 1993,
+            "d": 2004,
+            "true": "a"
+        },
+        "Welcher Vorname bedeutet so viel wie \"von glänzendem Ruhm\"?": {
+            "a": "Fabian",
+            "b": "Maria",
+            "c": "Roooobert",
+            "d": "Sabine",
+            "true": "c"
+        },
+        "Welches Lebewesen stellt für das Great Barrier Reef eine Bedrohung dar?": {
+            "a": "Spiegeleiqualle",
+            "b": "Dornenkronenseestern",
+            "c": "Grüne Meeresschildkröte",
+            "d": "Großer Vasenschwamm",
+            "true": "b"
+        },
+        "Was ist Molybdän?": {
+            "a": "ein Gestein",
+            "b": "ein Eisenoxid",
+            "c": "ein Metall",
+            "d": "ein Edelgas",
+            "true": "c"
+        },
+        "Wie nennt man Süditalien auch?": {
+            "a": "Niederitalien",
+            "b": "Oberitalien",
+            "c": "Unteritalien",
+            "d": "Rätien",
+            "true": "c"
+        },
+        "Welcher Planet hat keinen Mond?": {
+            "a": "Jupiter",
+            "b": "Uranus",
+            "c": "Mars",
+            "d": "Merkur",
+            "true": "d"
+        },
+        "Wie viele Staaten gehörten im Mai 2005 der NATO an?": {
+            "a": 16,
+            "b": 19,
+            "c": 26,
+            "d": 29,
+            "true": "c"
+        },
+        "In welcher Stadt kam 1881 Pablo Picasso zur Welt?": {
+            "a": "Madrid",
+            "b": "Málaga",
+            "c": "Sevilla",
+            "d": "Barcelona",
+            "true": "b"
+        },
+        "Zu welchem Land gehört Mallorca?": {
+            "a": "Italien",
+            "b": "Frankreich",
+            "c": "Spanien",
+            "d": "Griechenland",
+            "true": "c"
+        },
+        "Wie heißt die Hauptstadt Belgiens?": {
+            "a": "Antwerpen",
+            "b": "Gent",
+            "c": "Amsterdam",
+            "d": "Brüssel",
+            "true": "d"
+        },
+        "Welche Stadt ist die Hauptstadt von Luxemburg?": {
+            "a": "Bern",
+            "b": "Wien",
+            "c": "Warschau",
+            "d": "Luxemburg",
+            "true": "d"
+        },
+        "Welches chemische Symbol steht für Plutonium?": {
+            "a": "Pl",
+            "b": "Pu",
+            "c": "Pt",
+            "d": "Pn",
+            "true": "b"
+        },
+        "Wie heißt die größte Wüste Amerikas?": {
+            "a": "Große Sandwüste",
+            "b": "Atacama",
+            "c": "Mojave",
+            "d": "Patagonische Wüste",
+            "true": "d"
+        },
+        "Wann nahm England erstmals an einer Fußball-WM teil?": {
+            "a": 1930,
+            "b": 1934,
+            "c": 1938,
+            "d": 1950,
+            "true": "d"
+        },
+        "Im August 2005 ereignete sich ein Militärputsch in": {
+            "a": "Mali",
+            "b": "Mauretanien",
+            "c": "Niger",
+            "d": "Panama",
+            "true": "b"
+        },
+        "Wie groß in Metern je Quadratsekunde ist die Beschleunigung, wenn ein Auto in 10s von 0 auf 100 km/h beschleunigt?": {
+            "a": "1,8",
+            "b": "2,8",
+            "c": "3,8",
+            "d": "124,9",
+            "true": "b"
+        },
+        "Wie heißt der einzige Bundesstaat der USA, dessen Parlament nur eine Kammer hat?": {
+            "a": "Nevada",
+            "b": "Nebraska",
+            "c": "North Dakota",
+            "d": "New Mexico",
+            "true": "b"
+        },
+        "Wer wurde 1797 der zweite Präsident der USA?": {
+            "a": "George Washington",
+            "b": "Thomas Jefferson",
+            "c": "John Adams",
+            "d": "James Monroe",
+            "true": "c"
+        },
+        "Die Rur fließt in": {
+            "a": "den Rhein",
+            "b": "die Lippe",
+            "c": "die Ems",
+            "d": "die Maas",
+            "true": "d"
+        },
+        "Welche Stadt liegt nicht in Belgien?": {
+            "a": "Delft",
+            "b": "Antwerpen",
+            "c": "Gent",
+            "d": "Löwen",
+            "true": "a"
+        },
+        "Bei der Fußball-EM 2000 blieb am längsten ohne Gegentreffer die Mannschaft aus": {
+            "a": "Deutschland",
+            "b": "Belgien",
+            "c": "Portugal",
+            "d": "Spanien",
+            "true": "c"
+        },
+        "Wie viele Tage liegen zwischen Ostern und Pfingsten?": {
+            "a": "zwölf",
+            "b": "vierundzwanzig",
+            "c": "fünfzig",
+            "d": "neunzig",
+            "true": "c"
+        },
+        "Wie viel PS hat ein Kilowatt?": {
+            "a": "1,35 PS",
+            "b": "1,36 PS",
+            "c": "1,37 PS",
+            "d": "1,38 PS",
+            "true": "b"
+        },
+        "Welche Stadt ist die Hauptstadt von Großbritannien?": {
+            "a": "Vaduz",
+            "b": "Budapest",
+            "c": "Paris",
+            "d": "London",
+            "true": "d"
+        },
+        "Bei der Fußball-WM 1954 gab es im Endspiel das \"Wunder von\"": {
+            "a": "Bern",
+            "b": "Zürich",
+            "c": "Paris",
+            "d": "Rom",
+            "true": "a"
+        },
+        "Die Landeshauptstadt von Baden-Württemberg heißt": {
+            "a": "Karlsruhe",
+            "b": "Mannheim",
+            "c": "Stuttgart",
+            "d": "Düsseldorf",
+            "true": "c"
+        },
+        "Im Endspiel der Fußball-WM 1958 standen die Mannschaften Brasiliens und ": {
+            "a": "Deutschlands",
+            "b": "Schwedens ",
+            "c": "Chiles",
+            "d": "der Tschechoslowakei",
+            "true": "b"
+        },
+        "Welche dieser Städte liegt nicht in Neeuseeland?": {
+            "a": "Christchurch",
+            "b": "Hamilton",
+            "c": "Dunedin",
+            "d": "Cork",
+            "true": "d"
+        },
+        "Welches Halbmetall ist ein Chalkogen?": {
+            "a": "Bor",
+            "b": "Silizium",
+            "c": "Arsen",
+            "d": "Tellur",
+            "true": "d"
+        },
+        "Mit welcher Währung zahlt man in Andorra?": {
+            "a": "Dollar",
+            "b": "Franc",
+            "c": "Euro",
+            "d": "Schilling",
+            "true": "c"
+        },
+        "Wann wurde der erste Fußball-Europameister durch Elfmeterschießen ermittelt?": {
+            "a": 1968,
+            "b": 1972,
+            "c": 1976,
+            "d": 1980,
+            "true": "c"
+        },
+        "Was ist das alkoholische Lieblingsgetränk der Deutschen?": {
+            "a": "Sekt",
+            "b": "Bier",
+            "c": "Weißwein",
+            "d": "Rum",
+            "true": "b"
+        },
+        "Welche Tastenbeschriftung gibt es nicht auf dem NES-Controller?": {
+            "a": "A",
+            "b": "Select",
+            "c": "Start",
+            "d": "Stop",
+            "true": "d"
+        },
+        "Was ist kein Raubfisch?": {
+            "a": "Barsch",
+            "b": "Hecht",
+            "c": "Rotauge",
+            "d": "Regenbogenforelle",
+            "true": "c"
+        },
+        "Von wann bis wann dauerte der sogenannte deutsche Bauernkrieg?": {
+            "a": "1403 - 1407",
+            "b": "1524 - 1526",
+            "c": "1744 -1748",
+            "d": "1617 - 1618",
+            "true": "b"
+        },
+        "Wie viele Flügelschläge pro Sekunde schafft der Rubinkehlkolibri?": {
+            "a": 200,
+            "b": 145,
+            "c": 65,
+            "d": 110,
+            "true": "a"
+        },
+        "Wie nennt man die kleine Lebensform, aus dem später die Qualle entsteht?": {
+            "a": "Frustel",
+            "b": "Polyp",
+            "c": "Meduse",
+            "d": "Knospe",
+            "true": "b"
+        },
+        "In welcher Einheit wird die Reinheit von Gold angegeben?": {
+            "a": "Unzen",
+            "b": "Karat",
+            "c": "Pique",
+            "d": "Flawless",
+            "true": "b"
+        },
+        "Welche Nation hat die zweitgrößten Goldreserven der Erde?": {
+            "a": "Deutschland",
+            "b": "China",
+            "c": "Schweiz",
+            "d": "Italien",
+            "true": "a"
+        },
+        "Wie nennt man die Augen von Libellen?": {
+            "a": "Pigmentbecheraugen",
+            "b": "Blasenaugen",
+            "c": "Facettenaugen",
+            "d": "Linsenaugen",
+            "true": "c"
+        },
+        "Auf welcher dieser Flaggen ist kein Halbmond mit einem Stern zu sehen?": {
+            "a": "Türkei",
+            "b": "Westsahara",
+            "c": "Sudan",
+            "d": "Tunesien",
+            "true": "c"
+        },
+        "Welche Insel liegt am südlichsten?": {
+            "a": "St, Lucia",
+            "b": "Dominica",
+            "c": "Guadeloupe",
+            "d": "Martinique",
+            "true": "a"
+        },
+        "Was ist kein Bezirk in Berlin?": {
+            "a": "Lichtenberg",
+            "b": "Reinickendorf",
+            "c": "Neukölln",
+            "d": "Altona",
+            "true": "d"
+        },
+        "Was ist kein Mond des Saturn?": {
+            "a": "Enceladus",
+            "b": "Tethys",
+            "c": "Dione",
+            "d": "Lysithea",
+            "true": "d"
+        },
+        "Die Hauptstadt von Neuseeland heißt…": {
+            "a": "Auckland",
+            "b": "Christchurch",
+            "c": "Wellington",
+            "d": "Tauranga",
+            "true": "c"
+        },
+        "Wie viele Flügelpaare haben die meisten Schmetterlinge?": {
+            "a": 4,
+            "b": 3,
+            "c": 2,
+            "d": 1,
+            "true": "c"
+        },
+        "Wann starb Michael Jackson": {
+            "a": 2010,
+            "b": 2005,
+            "c": "lebt noch",
+            "d": 2009,
+            "true": "d"
+        },
+        "Was ist die kleinste Stadt der Welt": {
+            "a": "Hum",
+            "b": "Bacharach",
+            "c": "Yiwu",
+            "d": "Berlin",
+            "true": "a"
+        },
+        "Welche Farbe hat der Punkt auf der japanischen Flagge?": {
+            "a": "rot",
+            "b": "weiß",
+            "c": "blau",
+            "d": "schwarz",
+            "true": "a"
+        },
+        "Was tragen Bernhardiner in Filmen oft um ihren Hals?": {
+            "a": "Foto",
+            "b": "Uhr",
+            "c": "Schlüssel",
+            "d": "Fass",
+            "true": "d"
+        },
+        "\"The Legend of Zelda\" ist ein Spieleklassiker von…": {
+            "a": "Nintendo",
+            "b": "Playstation",
+            "c": "Xbox",
+            "d": "Sega",
+            "true": "a"
+        },
+        "Zu welchem Genre gehört das Spiel \"World of Warcraft\"?": {
+            "a": "SRPG",
+            "b": "MMORPG",
+            "c": "APRG",
+            "d": "RTS",
+            "true": "b"
+        },
+        "Welches Lied stammt nicht von Xavier Naidoo?": {
+            "a": "Ich kenne nichts",
+            "b": "Sie sieht mich nicht",
+            "c": "Dieser Weg",
+            "d": "Schwarz zu blau",
+            "true": "d"
+        },
+        "Der längste Krieg der Welt hatte keine Todesopfer, Wie lange dauerte der Konflikt?": {
+            "a": "227 Jahre",
+            "b": "181 Jahre",
+            "c": "118 Jahre",
+            "d": "335 Jahre",
+            "true": "d"
+        },
+        "Wann endete der Kosovokrieg?": {
+            "a": 1989,
+            "b": 2002,
+            "c": 1993,
+            "d": 1999,
+            "true": "d"
+        },
+        "Wie heißt der ehemalige Fußballstar vollständig: Lothar": {
+            "a": "Johannes",
+            "b": "Matthäus",
+            "c": "Markus",
+            "d": "Lukas",
+            "true": "b"
+        },
+        "Wie nennt man das Junge vom Wildschwein?": {
+            "a": "Kalb",
+            "b": "Kitz",
+            "c": "Ferkel",
+            "d": "Frischling",
+            "true": "d"
+        },
+        "Wie viele Reissorten gibt es weltweit?": {
+            "a": "um die 7000",
+            "b": "mehr als 120,000",
+            "c": "circa 55,000",
+            "d": "weniger als 100",
+            "true": "b"
+        },
+        "Was ist eine Schallempfindungsstörung?": {
+            "a": "Trinitatis",
+            "b": "Tetanus",
+            "c": "Tinnitus",
+            "d": "Tantalos",
+            "true": "c"
+        },
+        "Welches Haustier kann man aus biologischen Gründen keinesfalls rein vegetarisch ernähren?": {
+            "a": "Kaninchen",
+            "b": "Griechische Landschildkröte",
+            "c": "Katze",
+            "d": "Hund",
+            "true": "c"
+        },
+        "Um gesund zu bleiben sollen wir viel Obst essen, Wieso?": {
+            "a": "Fette",
+            "b": "Zucker",
+            "c": "Vitamine",
+            "d": "Stärke",
+            "true": "c"
+        },
+        "Welche Millionenstadt liegt am Mündungstrichter des Río de la Plata?": {
+            "a": "Mexiko-Stadt",
+            "b": "Madrid",
+            "c": "Montevideo",
+            "d": "Montréal",
+            "true": "c"
+        },
+        "Welches Gerät zeigt an, ob der Luftdruck steigt oder fällt?": {
+            "a": "das Amperemeter",
+            "b": "das Voltmeter",
+            "c": "das Barometer",
+            "d": "das Thermometer",
+            "true": "c"
+        },
+        "Womit werden Kuchen bestäubt?": {
+            "a": "Rougepfeffer",
+            "b": "Schminkezimt",
+            "c": "Make-up-Salz",
+            "d": "Puderzucker",
+            "true": "d"
+        },
+        "Wie nennt man Bäume, die künstlich klein gehalten werden?": {
+            "a": "Banzai",
+            "b": "Minitree",
+            "c": "Bonsai",
+            "d": "Bäumchen",
+            "true": "c"
+        },
+        "Was haben Seesterne?": {
+            "a": "drei Ohren",
+            "b": "fünf Lungen",
+            "c": "kein Gehirn",
+            "d": "zwei Herzen",
+            "true": "c"
+        },
+        "Wie heißt die größte Schildkröte?": {
+            "a": "Kaiserschildkröte",
+            "b": "Lederschildkröte",
+            "c": "Riesenschildkröte",
+            "d": "Moschusschildkröte",
+            "true": "b"
+        },
+        "Warum fällt alles nach unten?": {
+            "a": "die Erde zieht alles an",
+            "b": "die Sonne drückt alles nach unten",
+            "c": "die Luft drückt alles nach unten",
+            "d": "der Mond drückt alles nach unten",
+            "true": "a"
+        },
+        "Mit welcher Frage setzt sich das Olberssche Paradoxon auseinander?": {
+            "a": "Warum ist es im Sommer heißer als im Winter?",
+            "b": "Warum wachsen Bäume immer nach oben?",
+            "c": "Warum fließt Wasser immer bergab?",
+            "d": "Warum ist es nachts dunkel?",
+            "true": "d"
+        },
+        "Welche Stadt liegt nicht in Sachsen?": {
+            "a": "Chemnitz",
+            "b": "Cottbus",
+            "c": "Leipzig",
+            "d": "Bautzen",
+            "true": "b"
+        },
+        "Jemand der eher humorlos wirkt, wird auch wie charakterisiert?": {
+            "a": "bierernst",
+            "b": "wassertief",
+            "c": "schnapsfidel",
+            "d": "weinselig",
+            "true": "b"
+        },
+        "Welche Aussage trifft auf keine Säugetierart zu?": {
+            "a": "Sie können fliegen",
+            "b": "Sie legen Eier",
+            "c": "Sie sind wechselwarm",
+            "d": "Sie bilden Staaten",
+            "true": "c"
+        },
+        "Wie sieht der Schwanz des Siebenschläfers aus?": {
+            "a": "verkümmert",
+            "b": "nackt",
+            "c": "geringelt",
+            "d": "buschig",
+            "true": "d"
+        },
+        "Wie groß ist das Autobahnnetz der Bundesrepublik Deutschland ungefähr?": {
+            "a": "18,880 km",
+            "b": "15,300 km",
+            "c": "12,500 km",
+            "d": "21,700 km",
+            "true": "c"
+        },
+        "Wodurch starb Adolf Hitler?": {
+            "a": "durch den Strang",
+            "b": "durch Selbstmord",
+            "c": "durch eine Bombe",
+            "d": "durch Herzinfarkt",
+            "true": "b"
+        },
+        "Was ist ein Hektar?": {
+            "a": "eine Entfernungsangabe",
+            "b": "ein Flächenmaß",
+            "c": "ein Hohlmaß",
+            "d": "die Einheit der Stromstärke",
+            "true": "b"
+        },
+        "Leipzig liegt an der?": {
+            "a": "Eule",
+            "b": "Eiche",
+            "c": "Elster",
+            "d": "Ente",
+            "true": "c"
+        },
+        "Welches deutsche Bundesland betreibt Eigenwerbung mit \"Land der Frühaufsteher\"?": {
+            "a": "Baden-Württemberg",
+            "b": "Sachsen-Anhalt",
+            "c": "Niedersachsen",
+            "d": "Saarland",
+            "true": "b"
+        },
+        "Bei welcher Tätigkeit kann es zu einem Barotrauma kommen?": {
+            "a": "beim Sex",
+            "b": "beim Joggen",
+            "c": "beim Tauchen",
+            "d": "beim Fahrrad fahren",
+            "true": "c"
+        },
+        "Beende das Sprichwort! \"Morgens essen wie ein Kaiser, mittags wie ein König und abends wie ein\"": {
+            "a": "Bauer",
+            "b": "Bürger",
+            "c": "Priester",
+            "d": "Bettler",
+            "true": "d"
+        },
+        "Welches Tier fällt mit seinen Schneidezähnen Bäume?": {
+            "a": "Biber",
+            "b": "Bär",
+            "c": "Hase",
+            "d": "Hirsch",
+            "true": "a"
+        },
+        "Was ist Futsal?": {
+            "a": "Fußballtennis",
+            "b": "Fußball mit Softbällen",
+            "c": "Fußball ohne Torwart",
+            "d": "Hallenfußball",
+            "true": "d"
+        },
+        "Wie heißt die nördlichste Stadt des deutschen Festlandes?": {
+            "a": "Glücksburg",
+            "b": "Flensburg",
+            "c": "Westerland",
+            "d": "Itzehoe",
+            "true": "a"
+        },
+        "Wofür bauten die Ägypter die Pyramiden?": {
+            "a": "als Grab für ihre Könige",
+            "b": "als billige Wohnungen",
+            "c": "als Sextempel",
+            "d": "als Kornspeicher",
+            "true": "a"
+        },
+        "Welche Geschmacksrichtung nehmen wir vor allem an der Zungenspitze wahr?": {
+            "a": "sauer",
+            "b": "salzig",
+            "c": "süß",
+            "d": "bitter",
+            "true": "c"
+        },
+        "Wie heißt der Film über Hitlers letzte Tage im Führerbunker, der 2004 von Bernd Eichinger produziert wurde?": {
+            "a": "Der Vorgang",
+            "b": "Der Ausgang",
+            "c": "Der Abgang",
+            "d": "Der Untergang",
+            "true": "d"
+        },
+        "Welches Tier frisst sehr gerne Schnecken?": {
+            "a": "die Ente",
+            "b": "der Hund",
+            "c": "der Wolf",
+            "d": "die Katze",
+            "true": "a"
+        },
+        "Die \"Sendung mit der Maus\" gibt es (unter diesem Titel) seit?": {
+            "a": 1972,
+            "b": 1982,
+            "c": 1962,
+            "d": 1992,
+            "true": "a"
+        },
+        "Jedes Quadrat ist auch ein?": {
+            "a": "Rechteck",
+            "b": "Kreis",
+            "c": "Dreieck",
+            "d": "Oval",
+            "true": "a"
+        },
+        "Was kommt im Film Avatar vor?": {
+            "a": "Jagduhren",
+            "b": "Glückstaler",
+            "c": "Fluxwirbel",
+            "d": "Pyramidenvölker",
+            "true": "c"
+        },
+        "Wie nennt man das Jungtier eines Wolfes?": {
+            "a": "Ricke",
+            "b": "Frischling",
+            "c": "Welpe",
+            "d": "Kitz",
+            "true": "c"
+        },
+        "Wo gibt es Rückhalteeinrichtungen?": {
+            "a": "im Flugzeug",
+            "b": "im Auto",
+            "c": "in der Waschmaschine",
+            "d": "beim Staubsauger",
+            "true": "b"
+        },
+        "Wenn man zu viel Alkohol getrunken hat, so hat man umgangssprachlich?": {
+            "a": "eine Schlagseite",
+            "b": "einen Schlawiner",
+            "c": "ein Schlepptau ",
+            "d": "ein Schlachtfest",
+            "true": "a"
+        },
+        "Wie bezeichnet man Krankheiten, die vom Menschen auf Tiere übertragen werden können?": {
+            "a": "Alkalosen",
+            "b": "Acidosen",
+            "c": "Anthropozoonosen",
+            "d": "Akromegalien",
+            "true": "c"
+        },
+        "Gute Freunde werden?": {
+            "a": "geerzt",
+            "b": "gesiezt",
+            "c": "geihrzt",
+            "d": "geduzt",
+            "true": "d"
+        },
+        "Was gibt es im menschlichen Gehirn?": {
+            "a": "Schreibmaschine",
+            "b": "Rechenschieber",
+            "c": "Sprachzentrum",
+            "d": "Lesezirkel",
+            "true": "c"
+        },
+        "Was für ein Tier war der Mixosaurus?": {
+            "a": "Urzeitvogel",
+            "b": "Mammut",
+            "c": "Fischsaurier",
+            "d": "Riesenfingertier",
+            "true": "c"
+        },
+        "Wo findet man die Rote Insel?": {
+            "a": "im Indischen Ozean",
+            "b": "in der Karibik",
+            "c": "in Berlin",
+            "d": "im Mittelmeer",
+            "true": "c"
+        },
+        "Was ist kein Turngerät?": {
+            "a": "Seitpferd",
+            "b": "Hochreck",
+            "c": "Schwebebalken",
+            "d": "Silberbarren",
+            "true": "d"
+        },
+        "Wie viele Vereine gehören im Fußball der in der Saison 2008/2009 neueingeführten 3, Liga an?": {
+            "a": 2,
+            "b": 20,
+            "c": 18,
+            "d": 22,
+            "true": "b"
+        },
+        "Durch welche Bundesländer fließt die Unstrut?": {
+            "a": "Thüringen und Sachsen",
+            "b": "Hessen und Bayern",
+            "c": "Niedersachsen und Sachsen",
+            "d": "Schleswig-Holstein und Niedersachsen",
+            "true": "a"
+        },
+        "Welche Tiere gibt es tatsächlich?": {
+            "a": "Tapezierspinnen",
+            "b": "Renovierasseln",
+            "c": "Verputzbienen",
+            "d": "Anstreichhornissen",
+            "true": "a"
+        },
+        "Welche Großstadt liegt nicht in Bayern?": {
+            "a": "Hildesheim",
+            "b": "Augsburg",
+            "c": "Fürth",
+            "d": "Ingolstadt",
+            "true": "a"
+        },
+        "Wie heißt das Bier in Köln?": {
+            "a": "Kölsch",
+            "b": "Wasser",
+            "c": "Köppi",
+            "d": "Köss",
+            "true": "a"
+        },
+        "Was jagen Eisbären in freier Wildbahn nicht?": {
+            "a": "Erdhörnchen",
+            "b": "Robben",
+            "c": "Vögel",
+            "d": "Pinguine",
+            "true": "d"
+        },
+        "Wie alt wird ein pazifischer Riesenkrake?": {
+            "a": "ein Jahr",
+            "b": "zehn Jahre",
+            "c": "drei bis fünf Jahre",
+            "d": "dreißig Jahre",
+            "true": "c"
+        },
+        "Bei welcher Sportart findet Carving Anwendung?": {
+            "a": "Golf",
+            "b": "Segeln",
+            "c": "Ski fahren",
+            "d": "Reiten",
+            "true": "c"
+        },
+        "Welcher Vogel ist fast ganz schwarz?": {
+            "a": "Blaumeise",
+            "b": "die Meise",
+            "c": "der Eisvogel",
+            "d": "der Rabe",
+            "true": "d"
+        },
+        "Was gibt es nicht?": {
+            "a": "Pferderennen",
+            "b": "Springreiten",
+            "c": "Dressurreiten",
+            "d": "Kampfreiten",
+            "true": "d"
+        },
+        "Wie nennt man die Erstaufführung eines Stückes?": {
+            "a": "Prestige",
+            "b": "Präsens",
+            "c": "Premiere",
+            "d": "Premium",
+            "true": "c"
+        },
+        "Warum war der erste Mikrochip im Jahre 1969 eine Sensation?": {
+            "a": "wegen seiner Form",
+            "b": "wegen seiner Farbe",
+            "c": "wegen seiner Größe",
+            "d": "wegen der Haltbarkeit",
+            "true": "c"
+        },
+        "Bei wie viel Grad Celsius wird Quecksilber flüssig?": {
+            "a": "bei -180 Grad",
+            "b": "bei -39 Grad",
+            "c": "bei 1038 Grad",
+            "d": "bei 0 Grad",
+            "true": "b"
+        },
+        "Was hat der Steinschmätzer?": {
+            "a": "einen Schnabel",
+            "b": "vier Beine",
+            "c": "ein Fell",
+            "d": "Facettenaugen",
+            "true": "a"
+        },
+        "Welche Altstadt wurde 1993 zum Weltkulturerbe ernannt?": {
+            "a": "Marcels Hose",
+            "b": "Bamberg",
+            "c": "Ansbach",
+            "d": "Nürnberg",
+            "true": "b"
+        },
+        "Welches Bundesland liegt zwischen Nordsee und Ostsee?": {
+            "a": "Hamburg",
+            "b": "Mecklenburg-Vorpommern",
+            "c": "Schleswig-Holstein",
+            "d": "Niedersachsen",
+            "true": "c"
+        },
+        "Wer war die erste Frau im Weltraum?": {
+            "a": "Sally Ride",
+            "b": "Eileen Collins",
+            "c": "Swetlana Sawizkaja",
+            "d": "Walentina Tereschkowa",
+            "true": "d"
+        },
+        "Der drittgrößte heute noch lebende Vogel der Welt ist?": {
+            "a": "der Nandu",
+            "b": "der Kaiserpinguin",
+            "c": "der Helmkasuar",
+            "d": "die Großtrappe",
+            "true": "c"
+        },
+        "Welche beiden deutschen Nationalspieler wechselten nach der FIFA-WM 2010 zu Real Madrid?": {
+            "a": "Trochowski und Podolski",
+            "b": "Müller und Schweinsteiger",
+            "c": "Khedira und Özil",
+            "d": "Trochowski und Özil",
+            "true": "c"
+        },
+        "Einen Handwerker, der die Bemalung und Vergoldung von Holzplastiken vornimmt, nennt man auch?": {
+            "a": "Korbmaler",
+            "b": "Fassmaler",
+            "c": "Büchsenmaler",
+            "d": "Koffermaler",
+            "true": "b"
+        },
+        "Unfreundliche Menschen sind?": {
+            "a": "verdreckt",
+            "b": "verbrannt",
+            "c": "verbiestert",
+            "d": "verschreckt",
+            "true": "c"
+        },
+        "Was ist das Elementsymbol für Kupfer?": {
+            "a": "Kp",
+            "b": "Cu",
+            "c": "C",
+            "d": "Ku",
+            "true": "b"
+        },
+        "Welche Tiere werden im Volksmund auch Meerraben oder Wasserraben genannt?": {
+            "a": "die Haubentaucher",
+            "b": "die Graugänse",
+            "c": "die Pinguine",
+            "d": "die Kormorane",
+            "true": "d"
+        },
+        "Wie wird Franz Beckenbauer noch genannt?": {
+            "a": "Der König",
+            "b": "Der Fußball-Gott",
+            "c": "Der Bürgermeister",
+            "d": "Der Kaiser",
+            "true": "d"
+        },
+        "Welchen Beruf gab es Anfang des 20, Jahrhunderts wirklich?": {
+            "a": "Holzfühler",
+            "b": "Kohlehörer",
+            "c": "Gasriecher",
+            "d": "Ölschmecker",
+            "true": "c"
+        },
+        "Was braucht man häufig beim Backen?": {
+            "a": "Sonnenschippe",
+            "b": "Schneebesen",
+            "c": "Regenschaufel",
+            "d": "Hagelmopp",
+            "true": "b"
+        },
+        "Was ist die Hauptstadt von Mecklenburg-Vorpommern?": {
+            "a": "Schwerin",
+            "b": "Bremen",
+            "c": "Hamburg",
+            "d": "Frankfurt",
+            "true": "a"
+        },
+        "Was ist die Hauptstadt von Baden-Württemberg?": {
+            "a": "Wiesbaden",
+            "b": "Stuttgart",
+            "c": "Warschau",
+            "d": "Berlin",
+            "true": "b"
+        },
+        "Wie viele Einwohner hat Hessen circa (Stand:2020)?": {
+            "a": "5,1 Mio,",
+            "b": "8,3 Mio,",
+            "c": "6,2 Mio,",
+            "d": "7,4 Mio,",
+            "true": "c"
+        },
+        "Mit welcher Untersuchungsmethode kontrolliert der Frauenarzt den Verlauf einer Schwangerschaft?": {
+            "a": "Sonographie",
+            "b": "Magnetresonanztomographie",
+            "c": "Computertomographie",
+            "d": "Röntgen",
+            "true": "a"
+        },
+        "Wie heißt beim Tennis der erste Schlag des Gegners nach dem Aufschlag?": {
+            "a": "Rückhand",
+            "b": "Backspin",
+            "c": "Smash",
+            "d": "Return",
+            "true": "d"
+        },
+        "Woraus werden Pommes frites gemacht?": {
+            "a": "aus Tofu",
+            "b": "aus Pilzen",
+            "c": "aus Kartoffeln",
+            "d": "aus Mehl und Wasser",
+            "true": "c"
+        },
+        "Was ergibt Volt mal Ampere?": {
+            "a": "Watt",
+            "b": "Strand",
+            "c": "Ufer",
+            "d": "Sumpf",
+            "true": "a"
+        },
+        "Wie heißt eine Nachrichtensendung speziell für Kinder?": {
+            "a": "Lolle!",
+            "b": "Bine!",
+            "c": "logo!",
+            "d": "Mono!",
+            "true": "c"
+        },
+        "Wie viele der 72 deutschen Flüsse mit mehr als 100 Kilometern Länge sind männlich?": {
+            "a": 69,
+            "b": 49,
+            "c": 8,
+            "d": 15,
+            "true": "c"
+        },
+        "Beim Regenbogen liegt die Farbe Gelb zwischen?": {
+            "a": "Rot und Violett",
+            "b": "Violett und Indigo",
+            "c": "Grün und Blau",
+            "d": "Orange und Grün",
+            "true": "d"
+        },
+        "Wie nennt man das Phänomen, dass amputierte Gliedmaßen weiter schmerzen?": {
+            "a": "Geistheilung",
+            "b": "Phantomschmerz",
+            "c": "Spukpein",
+            "d": "Gespensterdruck",
+            "true": "b"
+        },
+        "Wie nennt man die Jungtiere bei einer Mehrfachgeburt eines Lebendgebärende Tieres?": {
+            "a": "Schuss",
+            "b": "Wurf",
+            "c": "Tritt",
+            "d": "Hieb",
+            "true": "b"
+        },
+        "Was muss bei einem Likör erfüllt sein?": {
+            "a": "höchstens 30% Alkohol",
+            "b": "mindestens 3 Monate gelagert",
+            "c": "mindestens 100 g Zucker pro Liter",
+            "d": "keine künstlichen Farbstoffe",
+            "true": "c"
+        },
+        "Welches Land hat keine gemeinsame Grenze mit Deutschland?": {
+            "a": "Tschechien",
+            "b": "Luxemburg",
+            "c": "Die Schweiz",
+            "d": "Die Slowakei",
+            "true": "d"
+        },
+        "Manchmal fällt es einem wie ,,,?": {
+            "a": "Schuppen aus den Augen",
+            "b": "Schmalz aus dem Ohr",
+            "c": "Schweiß von der Stirn",
+            "d": "Zähne aus dem Mund",
+            "true": "a"
+        },
+        "In was misst man Länge?": {
+            "a": "in Liter",
+            "b": "in Volt",
+            "c": "in PS",
+            "d": "in Meter",
+            "true": "d"
+        },
+        "Was mixt man aus Mineralwasser, Zucker, Gin und Zitrone?": {
+            "a": "Manhattan",
+            "b": "Ginfizz",
+            "c": "Lumumba",
+            "d": "Bloody Mary",
+            "true": "b"
+        },
+        "Wie nannte man im 2, Weltkrieg die japanischen Selbstmordpiloten?": {
+            "a": "Schewardnadse",
+            "b": "Kamikaze",
+            "c": "Laotse",
+            "d": "Mitsubishis",
+            "true": 2
+        },
+        "Wobei spielt die Lubrikation eine wichtige Rolle?": {
+            "a": "beim Sehen",
+            "b": "beim Laufen",
+            "c": "beim Geschlechtsverkehr",
+            "d": "beim Verdauen",
+            "true": "c"
+        },
+        "In welcher deutschen Stadt steht die Gedächtniskirche?": {
+            "a": "in Aachen",
+            "b": "in Ulm",
+            "c": "in München",
+            "d": "in Berlin",
+            "true": "d"
+        },
+        "Wie heißt die Formel für die Berechnung des Flächeninhalts eines Rechtecks?": {
+            "a": "A=?r",
+            "b": "A=a+b",
+            "c": "A=a*b",
+            "d": "A=a-b",
+            "true": "c"
+        },
+        "Wie hieß das einzige Schiff, das von dem deutschen Schlachtschiff Bismarck versenkt wurde?": {
+            "a": "HMS Victory",
+            "b": "USS Enterprise",
+            "c": "HMS Hood",
+            "d": "USS Monitor",
+            "true": "c"
+        },
+        "In Hessen gibt es fünf Universitätsstädte, Welche der nachfolgenden Städte gehört nicht dazu?": {
+            "a": "Marburg",
+            "b": "Kassel",
+            "c": "Wiesbaden",
+            "d": "Gießen",
+            "true": "c"
+        },
+        "Wofür stehen die Farben (Schwarz, Rot, Gold) der Deutschlandflagge?": {
+            "a": "Freiheit, Diktatur und Liebe",
+            "b": "Einigkeit, Recht und Demokratie",
+            "c": "Einigkeit, Freiheit und Demokratie",
+            "d": "Rechtsstaat, Freiheit und Unabhängigkeit",
+            "true": "b"
+        },
+        "In welchem ​​Jahr ist die Titanic am 15, April auf ihrer Jungfernfahrt von Southampton im Atlantik gesunken?": {
+            "a": 1912,
+            "b": 1911,
+            "c": 1913,
+            "d": 1910,
+            "true": "a"
+        },
+        "Wofür hält Paul Hunn den Rekord, der bei 118,1 Dezibel lag?": {
+            "a": "Der lauteste Schlag",
+            "b": "Das lauteste Rülpsen",
+            "c": "Das lauteste Klatschen",
+            "d": "Das lauteste Bein-Bewegen",
+            "true": "b"
+        },
+        "Wie viele Atemzüge nimmt der menschliche Körper durchschnittlich täglich?": {
+            "a": "19,000",
+            "b": "20,000",
+            "c": "17,000",
+            "d": "22,000",
+            "true": "b"
+        },
+        "Wie heißt das größte Technologieunternehmen in Südkorea?": {
+            "a": "Huawei",
+            "b": "Xiaomi",
+            "c": "Apple",
+            "d": "Samsung",
+            "true": "d"
+        },
+        "Wie viele Spieler gibt es in einem Wasserballteam?": {
+            "a": 8,
+            "b": 6,
+            "c": 4,
+            "d": 7,
+            "true": "d"
+        },
+        "Wann wurde die deutsche Nationalmannschaft Fußball-Weltmeister?": {
+            "a": "1950, 1978, 1998, 2014",
+            "b": "1954, 1974, 1990, 2014",
+            "c": "1946, 1950, 1970, 2014",
+            "d": "1950, 1954, 1958, 2014",
+            "true": "b"
+        },
+        "Der Kanadier Connor McDavid ist ein aufstrebender Star in welchem Sport?": {
+            "a": "Fußball",
+            "b": "Hockey",
+            "c": "Eishockey",
+            "d": "Basketball",
+            "true": "c"
+        },
+        "Wie hoch ist die Mehrwertsteuer in Deutschland? (Vor der Senkung durch das Konjukturpaket)?": {
+            "a": "16",
+            "b": "17",
+            "c": "18",
+            "d": "19",
+            "true": "D"
+        },
+        "Wie heißt eine Großstadt in Mittelfranken?": {
+            "a": "Erringen",
+            "b": "Erwerben",
+            "c": "Erlangen",
+            "d": "Erreichen",
+            "true": "C"
+        },
+        "Wie nennt man Töne, die so tief sind, dass Menschen sie nicht hören können?": {
+            "a": "Ultraschall",
+            "b": "Infraschall",
+            "c": "Echo",
+            "d": "Flageolet-Töne",
+            "true": "B"
+        },
+        "Welche dieser Städte liegt nicht in Sachsen?": {
+            "a": "Leipzig",
+            "b": "Chemnitz",
+            "c": "Schwerin",
+            "d": "Zwickau",
+            "true": "C"
+        },
+        "Wer hat das Modell der freien Marktwirtschaft beschrieben?": {
+            "a": "Adam Opel",
+            "b": "Ludwig Erhard",
+            "c": "Helmut Schmidt",
+            "d": "Adam Smith",
+            "true": "D"
+        },
+        "Wie viele Menschen starben 2010 bei dem Erdbeben in Haiti? (RIP)": {
+            "a": "Es waren ca. 600,000 Menschen,,,",
+            "b": "Es waren ca. 300,000 Menschen,,,",
+            "c": "Es waren ca. 50,000 Menschen,,,",
+            "d": "Es waren ca. 450,000 Menschen,,,",
+            "true": "B"
+        },
+        "Was ist die beliebteste Marke im Sinne von Kleidung": {
+            "a": "Adidas",
+            "b": "Gucci",
+            "c": "Nike",
+            "d": "LuoisVuitton",
+            "true": "B"
+        },
+        "Wann ist Netto entstanden?": {
+            "a": 1990,
+            "b": 1940,
+            "c": 1946,
+            "d": 1994,
+            "true": "A"
+        },
+        "Wann ist Aldi entstanden": {
+            "a": 1925,
+            "b": 1950,
+            "c": 1978,
+            "d": 1946,
+            "true": "D"
+        },
+        "Welche ist die Hauptstadt von Australien?": {
+            "a": "Perth",
+            "b": "Sydney",
+            "c": "Canberra",
+            "d": "Melbourne",
+            "true": "C"
+        },
+        "Lux ist die Maßeinheit für die ,,,?": {
+            "a": "Beleuchtungsstärke",
+            "b": "Lichtströmung",
+            "c": "Lichtempfindlichkeit",
+            "d": "Leuchtdichte",
+            "true": "A"
+        },
+        "Wie heißt der Wohnort von SpongeBob Schwammkopf im Pazifik?": {
+            "a": "Hawaiian Deep",
+            "b": "Bikini Bottom",
+            "c": "Pitcairn Islands",
+            "d": "Tahiti Blue Sea",
+            "true": "B"
+        },
+        "Wie viele Bakterien sind ungefähr im Menschlichen Körper?": {
+            "a": "39 Millionen",
+            "b": "40 Milliarden",
+            "c": "39 Billionen",
+            "d": "40 Billionen",
+            "true": "C"
+        },
+        "Welche Stadt darf sich nicht Barbarossastadt nennen?": {
+            "a": "Gelnhausen",
+            "b": "Mainz",
+            "c": "Bad Frankenhausen",
+            "d": "Sinzig",
+            "true": "B"
+        },
+        "Wo liegt Dortmund?": {
+            "a": "In Bayern",
+            "b": "In Westfalen",
+            "c": "In Niedersachsen",
+            "d": "In Hessen",
+            "true": "B"
+        },
+        "Welches ist kein Bakterium?": {
+            "a": "Escherischia coli",
+            "b": "Plasmodium",
+            "c": "Staphylokokke",
+            "d": "Salmonelle",
+            "true": "B"
+        },
+        "Was war Albert Einstein?": {
+            "a": "Buddhist",
+            "b": "Jude",
+            "c": "Moslem",
+            "d": "Zeuge Jehovas",
+            "true": "B"
+        },
+        "Welches Lebensmittel hat keinen Nährwert (keine Kalorien)?": {
+            "a": "Obstsaft",
+            "b": "Honig",
+            "c": "Gemüse",
+            "d": "Wasser",
+            "true": "D"
+        },
+        "Wie viele Länder sind flächenmäßig größer als Kanada?": {
+            "a": 7,
+            "b": 1,
+            "c": 5,
+            "d": 2,
+            "true": "B"
+        },
+        "Wie heißen die Unwetter, die über dem Atlantik entstehen und Richtung USA ziehen?": {
+            "a": "Orkan",
+            "b": "Taifun",
+            "c": "Hurrikan",
+            "d": "Horizon",
+            "true": "C"
+        },
+        "In welchem Land steht der Akshardham-Tempel?": {
+            "a": "Laos",
+            "b": "Indien",
+            "c": "Türkei",
+            "d": "Vietnam",
+            "true": "B"
+        },
+        "Welche Stadt in Australien hat die meisten Einwohner?": {
+            "a": "Brisbane",
+            "b": "Sydney",
+            "c": "Melbourne",
+            "d": "Newyork",
+            "true": "B"
+        },
+        "Wie alt kann eine Nordmanntanne werden?": {
+            "a": "bis 90 Jahre",
+            "b": "bis 700 Jahre",
+            "c": "bis 280 Jahre",
+            "d": "bis 500 Jahre",
+            "true": "D"
+        },
+        "Welche Tiere leben nicht in der Antarktis?": {
+            "a": "Wale",
+            "b": "Eisbären",
+            "c": "Robben",
+            "d": "Pinguine",
+            "true": "A"
+        },
+        "Eine Verbindung aus mehreren Atomen nennt man…": {
+            "a": "Molekül",
+            "b": "Proton",
+            "c": "Neutron",
+            "d": "Elektron",
+            "true": "A"
+        },
+        "Wie lang war der Schwanz vom Diplodocus?": {
+            "a": "etwa 7 Meter",
+            "b": "etwa 13 Meter",
+            "c": "etwa 19 Meter",
+            "d": "etwa 15 Meter",
+            "true": "B"
+        },
+        "Was ist keine Grundfarbe im RGB-Farbraum?": {
+            "a": "Grün",
+            "b": "Gelb",
+            "c": "Rot",
+            "d": "Blau",
+            "true": "B"
+        },
+        "Welcher Hai lebt im Salz- und im Süßwasser?": {
+            "a": "Bullenhai",
+            "b": "Heringshai",
+            "c": "Schwarzhai",
+            "d": "Sandbankhai",
+            "true": "A"
+        },
+        "In der Regel hat eine E-Gitarre wie viele Saiten?": {
+            "a": 5,
+            "b": 4,
+            "c": 6,
+            "d": 3,
+            "true": "C"
+        },
+        "In welchem US-Bundesstaat wurde Madonna geboren?": {
+            "a": "Montana",
+            "b": "Missisippi",
+            "c": "Michigan",
+            "d": "Deutschland",
+            "true": "B"
+        },
+        "Wie viele Weihnachtsbäume werden in Deutschland pro Jahr verkauft?": {
+            "a": "etwa 10 Millionen",
+            "b": "etwa 20 Millionen",
+            "c": "etwa 30 Millionen",
+            "d": "etwa 40 Millionen",
+            "true": "C"
+        },
+        "Wie viele Einkerbungen hat ein Golfball?": {
+            "a": "50",
+            "b": "112",
+            "c": "242",
+            "d": "336",
+            "true": "D"
+        },
+        "Einige Monate haben 30, einige 31 Tage, Wie viele haben 28 Tage?": {
+            "a": "5 Monate",
+            "b": "7 Monate",
+            "c": "3 Monate",
+            "d": "Alle Monate",
+            "true": "D"
+        },
+        "Welcher Planet unseres Sonnensystems ist der Sonne am nächsten?": {
+            "a": "Pluto",
+            "b": "Saturn",
+            "c": "Merkur",
+            "d": "Mars",
+            "true": "C"
+        },
+        "In welchem Jahr war die Einführung des Euro?": {
+            "a": 2000,
+            "b": 1999,
+            "c": 2001,
+            "d": 2002,
+            "true": "D"
+        },
+        "Wie heißt das Schiff von John Maynard in der gleichnamigen Ballade?": {
+            "a": "Star",
+            "b": "Adler",
+            "c": "Drossel",
+            "d": "Schwalbe",
+            "true": "D"
+        },
+        "Was lernen Schüler im Kunstunterricht?": {
+            "a": "Dolchstöße",
+            "b": "Scherenschnitte",
+            "c": "Schwerthiebe",
+            "d": "Messerstiche",
+            "true": "B"
+        },
+        "Wie viel Quadratkilometer nehmen die Flüsse in Deutschland ein?": {
+            "a": "ca. 30km²",
+            "b": "Mehr als 10km²",
+            "c": "Mehr als 40km²",
+            "d": "Mehr als 20km²",
+            "true": "B"
+        },
+        "Wie hoch ist der Mount Everest?": {
+            "a": "8848m",
+            "b": "8838m",
+            "c": "8858m",
+            "d": "8840m",
+            "true": "A"
+        },
+        "Wer hatte das erste aktive Wahlrecht für Frauen?": {
+            "a": "Australien",
+            "b": "Indonesien",
+            "c": "Neuseeland",
+            "d": "Polen",
+            "true": "C"
+        },
+        "Wer war der erste deutsche Bundeskanzler?": {
+            "a": "Adenauer",
+            "b": "Merkel",
+            "c": "Brand",
+            "d": "Obama",
+            "true": "A"
+        },
+        "Welches Dateiformat öffnet man typischerweise mit dem Acrobat Reader?": {
+            "a": "PDF",
+            "b": "EXE",
+            "c": "BAT",
+            "d": "ARF",
+            "true": "A"
+        },
+        "In welcher Zeitspanne dreht sich die Erde 1 Mal um die Sonne?": {
+            "a": "1 Woche",
+            "b": "Ein Jahr",
+            "c": "1 Monat",
+            "d": "Ein halbes Jahr",
+            "true": "B"
+        },
+        "In welchem Bundesland liegt Stuttgart?": {
+            "a": "Baden-Württemberg",
+            "b": "Bayern",
+            "c": "Brandenburg",
+            "d": "Berlin",
+            "true": "A"
+        },
+        "Wie viel wiegt eine Tafel Schokolade?": {
+            "a": "100 Gramm",
+            "b": "100 Kilogramm",
+            "c": "1 Gramm",
+            "d": "1 Kilogramm",
+            "true": "A"
+        },
+        "Setze die Reihe fort: 6, 12, 24...": {
+            "a": 48,
+            "b": 36,
+            "c": 50,
+            "d": 46,
+            "true": "A"
+        },
+        "Wer war von 1974 bis 1982 Bundeskanzler der Bundesrepublik Deutschland?": {
+            "a": "Helmut Kohl",
+            "b": "Walter Scheel",
+            "c": "Willi Brandt",
+            "d": "Helmut Schmidt",
+            "true": "C"
+        },
+        "Wer verkündet ein neu beschlossenes Gesetz?": {
+            "a": "Bundespräsident",
+            "b": "Bundestagspräsident",
+            "c": "Bundeskanzler",
+            "d": "Bundesrat",
+            "true": "A"
+        },
+        "In welcher Konjunkturphase ist die Auftragslage sehr schlecht?": {
+            "a": "Rezession",
+            "b": "Erholung / Aufschwung",
+            "c": "Depression",
+            "d": "Boom",
+            "true": "A"
+        },
+        "Welches dieser Länder gehört nicht zur europäischen Währungsunion?": {
+            "a": "Italien",
+            "b": "Österreich",
+            "c": "Frankreich",
+            "d": "Großbritannien",
+            "true": "D"
+        },
+        "Wo hat die Europäische Zentralbank ihren Sitz?": {
+            "a": "Frankfurt am Main",
+            "b": "Frankfurt an der Oder",
+            "c": "München",
+            "d": "Mailand",
+            "true": "A"
+        },
+        "x² + 9 = 34": {
+            "a": 8,
+            "b": 6,
+            "c": 9,
+            "d": 5,
+            "true": "D"
+        },
+        "Auf welchem Kontinent liegt das Land Kamerun?": {
+            "a": "Afrika",
+            "b": "Europa",
+            "c": "Asien",
+            "d": "Australien",
+            "true": "A"
+        },
+        "Welche 3 Flüsse fließen durch Passau?": {
+            "a": "Donau, Main und Inn",
+            "b": "Donau, Main und Ilz",
+            "c": "Donau, Inn und Ilz",
+            "d": "Donau, Regen und Inn",
+            "true": "C"
+        },
+        "Zu welcher Tiergruppe zählt der Marderhund?": {
+            "a": "Wirbellose Tiere",
+            "b": "Vögel",
+            "c": "Säugetiere",
+            "d": "Fische",
+            "true": "C"
+        },
+        "Wie hieß der erste US-amerikanische Präsident?": {
+            "a": "Abraham Lincoln",
+            "b": "John Rockefeller",
+            "c": "Albert Einstein",
+            "d": "George Washington",
+            "true": "D"
+        },
+        "Aus welchem Land stammte Napoleon?": {
+            "a": "Frankreich",
+            "b": "Italien",
+            "c": "Spanien",
+            "d": "Deutschland",
+            "true": "A"
+        },
+        "Welche Farbe erhältst du, wenn du rot und grün mischst?": {
+            "a": "braun",
+            "b": "blau",
+            "c": "rot",
+            "d": "dunkelgrün",
+            "true": "A"
+        },
+        "Was ist die Wurzel aus 144?": {
+            "a": 13,
+            "b": 16,
+            "c": 12,
+            "d": 14,
+            "true": "D"
+        },
+        "Welche deutsche Stadt hat die meisten Einwohner?": {
+            "a": "Hamburg",
+            "b": "Berlin",
+            "c": "München",
+            "d": "Frankfurt am Main",
+            "true": "B"
+        },
+        "Bis zu welchem Jahr war Bonn die deutsche Hauptstadt?": {
+            "a": 2000,
+            "b": 1990,
+            "c": 1999,
+            "d": 1992,
+            "true": "D"
+        },
+        "Wie viele Bundesländer gibt es in Deutschland?": {
+            "a": 14,
+            "b": 16,
+            "c": 18,
+            "d": 19,
+            "true": "B"
+        },
+        "Wie viele Nieren hat der Mensch im Normalfall?": {
+            "a": 1,
+            "b": 2,
+            "c": 3,
+            "d": 4,
+            "true": "B"
+        },
+        "Menschen mit XX-Chromosom haben folgendes Geschlecht:": {
+            "a": "Hermaphrodit",
+            "b": "Männlich",
+            "c": "Weiblich",
+            "d": "Kind",
+            "true": "B"
+        },
+        "Was versteht man unter Gewaltenteilung?": {
+            "a": "Verteilung der Staatsgewalt auf Legislative, Exekutive und Judikative",
+            "b": "Hammer, Axt und Beil",
+            "c": "Beim Militär zwischen Soldaten und Zivilpersonal zu unterscheiden",
+            "d": "Das Thema Gewalt in der Physik",
+            "true": "A"
+        },
+        "Welches folgende Land hat derzeit die meisten Einwohner?": {
+            "a": "USA",
+            "b": "China",
+            "c": "Russland",
+            "d": "Indien",
+            "true": "B"
+        },
+        "Welches Datum wird in Deutschland als Tag der deutschen Einheit gefeiert?": {
+            "a": "17, Juni",
+            "b": "3, Oktober",
+            "c": "24, Dezember",
+            "d": "5, April",
+            "true": "B"
+        },
+        "Welches Grundrecht gilt in Deutschland nur für Ausländer/innen? Das Grundrecht auf,,,": {
+            "a": "Schutz der Familie",
+            "b": "Menschenwürde",
+            "c": "Asyl",
+            "d": "Meinungsfreiheit",
+            "true": "C"
+        },
+        "In Deutschland dürfen Menschen offen etwas gegen die Regierung sagen, weil,,,": {
+            "a": "hier Religionsfreiheit gilt,",
+            "b": "die Menschen Steuern zahlen,",
+            "c": "die Menschen das Wahlrecht haben,",
+            "d": "hier Meinungsfreiheit gilt,",
+            "true": "D"
+        },
+        "Welches Recht gehört zu den Grundrechten in Deutschland?": {
+            "a": "Waffenbesitz",
+            "b": "Faustrecht",
+            "c": "Meinungsfreiheit",
+            "d": "Selbstjustiz",
+            "true": "C"
+        },
+        "Was für eine Staatsform hat Deutschland?": {
+            "a": "Monarchie",
+            "b": "Diktatur",
+            "c": "Republik",
+            "d": "Fürstentum",
+            "true": "C"
+        },
+        "Wahlen sind in Deutschland frei, Was bedeutet das?": {
+            "a": "Man darf Geld annehmen, wenn man dafür einen bestimmten Kandidaten / eine bestimmte Kandidatin wählt,",
+            "b": "Nur Personen, die noch nie im Gefängnis waren, dürfen wählen,",
+            "c": "Der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben,",
+            "d": "Alle wahlberechtigten Personen müssen wählen,",
+            "true": "C"
+        },
+        "Mit welchen Worten beginnt die deutsche Nationalhymne?": {
+            "a": "Völker, hört die Signale,,,",
+            "b": "Einigkeit und Recht und Freiheit,,,",
+            "c": "Freude schöner Götterfunken,,,",
+            "d": "Deutschland einig Vaterland,,,",
+            "true": "B"
+        },
+        "Deutschland ist ein Rechtsstaat, Was ist damit gemeint?": {
+            "a": "Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die Gesetze halten,",
+            "b": "Der Staat muss sich nicht an die Gesetze halten,",
+            "c": "Nur Deutsche müssen die Gesetze befolgen,",
+            "d": "Die Gerichte machen die Gesetze,",
+            "true": "A"
+        },
+        "Was ist in Deutschland die \"5%-Hürde\"?": {
+            "a": "Abstimmungsregelung im Bundestag für kleine Parteien",
+            "b": "Anwesenheitskontrolle im Bundestag für Abstimmungen",
+            "c": "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
+            "d": "Anwesenheitskontrolle im Bundesrat für Abstimmungen",
+            "true": "C"
+        },
+        "Was ist eine Aufgabe der Polizei in Deutschland?": {
+            "a": "das Land zu verteidigen",
+            "b": "die Bürgerinnen und Bürger abzuhören",
+            "c": "die Gesetze umzusetzen",
+            "d": "die Einhaltung von Gesetzen zu überwachen",
+            "true": "D"
+        },
+        "Welches Land war keine \"Alliierte Besatzungsmacht\" in Deutschland?": {
+            "a": "USA",
+            "b": "Sowjetunion",
+            "c": "Frankreich",
+            "d": "Japan",
+            "true": "D"
+        },
+        "Wann wurde die DDR gegründet?": {
+            "a": 1947,
+            "b": 1949,
+            "c": 1953,
+            "d": 1956,
+            "true": "C"
+        },
+        "Welches Land ist ein Nachbarland von Deutschland?": {
+            "a": "Ungarn",
+            "b": "Portugal",
+            "c": "Spanien",
+            "d": "Schweiz",
+            "true": "D"
+        },
+        "Die Erziehung der Kinder ist in Deutschland vor allem Aufgabe,,,": {
+            "a": "des Staates",
+            "b": "der Eltern",
+            "c": "der Großeltern",
+            "d": "der Schulen",
+            "true": "B"
+        },
+        "In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man,,,": {
+            "a": "katholisch ist,",
+            "b": "gut ausgebildet ist,",
+            "c": "eine Frau ist,",
+            "d": "Mitglied einer Partei ist,",
+            "true": "B"
+        },
+        "Wie viele Menschen leben aktuell schätzungsweise in Deutschland?": {
+            "a": "8,2 Milliarden",
+            "b": "50 Millionen",
+            "c": "82 Millionen",
+            "d": "90 Millionen",
+            "true": "C"
+        },
+        "Was ist die Hauptstadt von Japan?": {
+            "a": "Tokio",
+            "b": "Peking",
+            "c": "Hongkong",
+            "d": "Singapur",
+            "true": "A"
+        },
+        "Welches dieser Tiere ist ein Säugetier?": {
+            "a": "Krokodil",
+            "b": "Hai",
+            "c": "Delfin",
+            "d": "Schlange",
+            "true": "C"
+        },
+        "Die Exekutive ist die ,,, Gewalt,": {
+            "a": "Richtende",
+            "b": "Ausführende",
+            "c": "Gesetzgebende",
+            "d": "falsche",
+            "true": "B"
+        },
+        "Wie viele Zentimeter ergeben einen Dezimeter?": {
+            "a": 10,
+            "b": 100,
+            "c": 1000,
+            "d": "10,50",
+            "true": "A"
+        },
+        "Welche dieser Zahlen ist KEINE Primzahl?": {
+            "a": 19,
+            "b": 53,
+            "c": 91,
+            "d": 17,
+            "true": "C"
+        },
+        "Welches chemische Element macht mehr als die Hälfte der Masse eines menschlichen Körpers aus?": {
+            "a": "Sauerstoff",
+            "b": "Kalzium",
+            "c": "Eisen",
+            "d": "Kohlenstoff",
+            "true": "A"
+        },
+        "In welcher Sprache benutzt man den ablativen Kasus?": {
+            "a": "deutsch",
+            "b": "türkisch",
+            "c": "russisch",
+            "d": "mandarin",
+            "true": "b"
+        },
+        "Welche Tierart wäre ohne Erhaltungszuchtprogramme zoologischer Gärten bereits ausgestorben?": {
+            "a": "Oryxantilope",
+            "b": "Schneeleopard",
+            "c": "Japanmakake",
+            "d": "Malaienbär",
+            "true": "A"
+        },
+        "Was ist ein Lexikon?": {
+            "a": "ein Hinterhauopus",
+            "b": "ein Vermöbelbuch",
+            "c": "ein Vertrümmheftchen",
+            "d": "ein Nachschlagewerk",
+            "true": "D"
+        },
+        "Zu den Delikatessen der chinesischen Küche zählen ,,,?": {
+            "a": "Hundertjährige Reisbällchen",
+            "b": "Fünfzigjährige Heuschrecken",
+            "c": "Dreissigjährige Teigtaschen",
+            "d": "Tausendjährige Eier",
+            "true": "D"
+        },
+        "Wen beten Fußballfans an?": {
+            "a": "Elferpapst",
+            "b": "Paßprophet",
+            "c": "Flankengott",
+            "d": "Dribbelmönch",
+            "true": "C"
+        },
+        "Woran sterben die Marsianer in dem Film \"Kampf der Welten\" aus dem Jahr 1953?": {
+            "a": "durch Radiowellen",
+            "b": "durch Viren und Bakterien",
+            "c": "durch einen Atomwaffenangriff",
+            "d": "durch Countrymusic",
+            "true": "b"
+        },
+        "Wie heißt eine animierte US-amerikanische Fernsehserie?": {
+            "a": "Northpark",
+            "b": "Easpark",
+            "c": "Westpark",
+            "d": "Southpark",
+            "true": "D"
+        },
+        "Wie lautet der medizinische Fachbegriff für Magersucht?": {
+            "a": "Bulimia",
+            "b": "Anorexia nervosa",
+            "c": "Binge Eating Disorder",
+            "d": "Lipophobia",
+            "true": "B"
+        },
+        "Welches Tier hat keine Lungen?": {
+            "a": "Delfin",
+            "b": "Borneo-Barbourfrosch",
+            "c": "Amerikanischer Ochsenfrosch",
+            "d": "Geburtshelferkröte",
+            "true": "B"
+        },
+        "Eine deutsche Biersorte, die bereits seit 1397 mit dem Zusatz von Kochsalz und Koriander gebraut wird ist die ,,,?": {
+            "a": "Kriek",
+            "b": "Gose",
+            "c": "Quadrupel",
+            "d": "Westmalle",
+            "true": "B"
+        },
+        "Wie viele Augen sind insgesamt auf einem normalen Spielwürfel?": {
+            "a": 18,
+            "b": 16,
+            "c": 21,
+            "d": 14,
+            "true": "C"
+        },
+        "Was ist eine Kalte Ente?": {
+            "a": "Hackbraten",
+            "b": "Entenbrust",
+            "c": "Weinbowle",
+            "d": "Pudding",
+            "true": "C"
+        },
+        "Wie viel Liter Rohöl sind in einem Barrel?": {
+            "a": "250 l",
+            "b": "56,5 l",
+            "c": "159,1 l",
+            "d": "144 l",
+            "true": "C"
+        },
+        "Aus was wird Tofu hergestellt?": {
+            "a": "Kichererbsen",
+            "b": "Linsen",
+            "c": "Bohnen",
+            "d": "Sojabohnen",
+            "true": "D"
+        },
+        "Welcher Zahn zählt nicht zum menschlichen Gebiss?": {
+            "a": "Stoßzahn",
+            "b": "Schneidezahn",
+            "c": "Eckzahn",
+            "d": "Backenzahn",
+            "true": "A"
+        },
+        "Für welche Fußballnationalmannschaft spielte Diego Maradona?": {
+            "a": "Argentinien",
+            "b": "Brasilien",
+            "c": "Italien",
+            "d": "Spanien",
+            "true": "A"
+        },
+        "Der Dreißigjährige Krieg endete mit dem sogenannten Westfälischen ,,,?": {
+            "a": "Einklang",
+            "b": "Frieden",
+            "c": "Waffenstillstand",
+            "d": "Gleichgewicht",
+            "true": "B"
+        },
+        "Wie viele Bauern sind beim Schach bei Spielbeginn auf dem Brett?": {
+            "a": 8,
+            "b": 14,
+            "c": 16,
+            "d": 12,
+            "true": "C"
+        },
+        "Wie viele Sekunden reine Spielzeit dauert ein Fußballspiel ohne Verlängerung?": {
+            "a": "6300 Sekunden",
+            "b": "6100 Sekunden",
+            "c": "5400 Sekunden",
+            "d": "5600 Sekunden",
+            "true": "C"
+        },
+        "Warum wachsen Korallen der Sonne entgegen?": {
+            "a": "Damit ihre Farben besser zur Geltung kommen,",
+            "b": "Die UV-Strahlung ist ihre einzige Nahrung,",
+            "c": "Um Fotosynthese zu betreiben,",
+            "d": "Um Algen zu helfen, die auf den Korallen wachsen,",
+            "true": "D"
+        },
+        "Wie hieß das jüdische Mädchen, dessen Tagebuch nach dem 2, Weltkrieg Weltruhm erlangte?": {
+            "a": "Antje Vogt",
+            "b": "Nadja Stern",
+            "c": "Anne Frank",
+            "d": "Nina Kronblum",
+            "true": "C"
+        },
+        "Wie heißt eine Single von Lady Gaga?": {
+            "a": "Paparazzi",
+            "b": "Paparassi",
+            "c": "Papparazi",
+            "d": "Paparraszi",
+            "true": "A"
+        },
+        "Was bekämpfen Antibiotika?": {
+            "a": "Viren",
+            "b": "Pickel",
+            "c": "Bakterien",
+            "d": "Akne",
+            "true": "C"
+        },
+        "Wie heißen die beiden Gründer von Microsoft?": {
+            "a": "Bill Gates und Paul Allen",
+            "b": "Bill Gates und Steve Jobs",
+            "c": "Steve Jobs und Steve Ballmer",
+            "d": "Bill Gates und Steve Ballmer",
+            "true": "A"
+        },
+        "Wo liegt der Baikalsee – der tiefste und älteste Süßwassersee der Welt?": {
+            "a": "in Sibirien",
+            "b": "in Indien",
+            "c": "in Tansania",
+            "d": "in Norwegen",
+            "true": "A"
+        },
+        "Wann wurde die Berliner Mauer gebaut?": {
+            "a": "1963",
+            "b": "1971",
+            "c": "1961",
+            "d": "1974",
+            "true": "C"
+        },
+        "Welches ist der größte Planet?": {
+            "a": "Neptun",
+            "b": "Jupiter",
+            "c": "Pluto",
+            "d": "Venus",
+            "true": "B"
+        },
+        "Wofür benutzt man einen Fuchsschwanz?": {
+            "a": "Zum Essen",
+            "b": "Zum Sägen",
+            "c": "Zum Malen",
+            "d": "Zum Schreiben",
+            "true": "B"
+        },
+        "Welches chemische Element wird als Desinfektionsmittel in Bädern verwendet?": {
+            "a": "Fluor",
+            "b": "Chlor",
+            "c": "Alkohol",
+            "d": "Natrium",
+            "true": "B"
+        },
+        "Mit welchem nicht brennbaren Gas werden Luftschiffe gefüllt?": {
+            "a": "Neon",
+            "b": "Wasserstoff",
+            "c": "Helium",
+            "d": "Sauerstoff",
+            "true": "C"
+        },
+        "Die Insel Mallorca liegt im .... ?": {
+            "a": "Mittelmeer",
+            "b": "Atlantik",
+            "c": "Schwarzen Meer",
+            "d": "Nordsee",
+            "true": "A"
+        },
+        "Welche Frucht wird in Österreich Marille genannt?": {
+            "a": "Aprikose",
+            "b": "Pflaume",
+            "c": "Pfirsich",
+            "d": "Mirabelle",
+            "true": "A"
+        },
+        "Welches ist die niedrigste Spielfarbe beim Skat?": {
+            "a": "Kreuz",
+            "b": "Pik",
+            "c": "Herz",
+            "d": "Karo",
+            "true": "D"
+        },
+        "Wie hieß der Sonnengott der alten Ägypter?": {
+            "a": "La",
+            "b": "Ra",
+            "c": "Sa",
+            "d": "Da",
+            "true": "B"
+        },
+        "In welche Richtung dreht sich die Erde?": {
+            "a": "Osten",
+            "b": "Norden",
+            "c": "Westen",
+            "d": "Süden",
+            "true": "A"
+        },
+        "Aus welchen Farben besteht die bulgarische Flagge?": {
+            "a": "weiß-grün-rot",
+            "b": "blau-gelb-rot",
+            "c": "grün-gelb-weiß",
+            "d": "grün-rot-weiß",
+            "true": "A"
+        },
+        "Welches deutsche Bundesland grenzt an Frankreich, Luxemburg und Belgien?": {
+            "a": "Baden-Württemberg",
+            "b": "Nordrhein-Westfalen",
+            "c": "Rheinland-Pfalz",
+            "d": "Bayern",
+            "true": "C"
+        },
+        "Welche Kunstepoche kam vor der Gotik?": {
+            "a": "Romanik",
+            "b": "Gotik",
+            "c": "Barock",
+            "d": "Antike",
+            "true": "A"
+        },
+        "Welche der folgenden Länder liegen geografisch in Europa und gleichzeitig in Asien?": {
+            "a": "Ungarn und Bolivien",
+            "b": "Türkei und Polen",
+            "c": "Türkei und Russland",
+            "d": "Russland und England",
+            "true": "C"
+        },
+        "Welche Toplevel-Domain wird für Frankreich meistens eingesetzt?": {
+            "a": ".us",
+            "b": ".de",
+            "c": ".fr",
+            "d": ".it",
+            "true": "C"
+        },
+        "Wer ist der griechische Gott des Traumes?": {
+            "a": "Morpheus",
+            "b": "Zeus",
+            "c": "Hades",
+            "d": "Thor",
+            "true": "A"
+        },
+        "Welches Bundesland gehört erst seit 1957 zur Bundesrepublik Deutschland?": {
+            "a": "Baden-Württemberg",
+            "b": "Rheinland-Pfalz",
+            "c": "Schleswig-Holstein",
+            "d": "Saarland",
+            "true": "D"
+        },
+        "Welche Sprache hat die meisten Muttersprachler?": {
+            "a": "Chinesisch",
+            "b": "Englisch",
+            "c": "Spanisch",
+            "d": "Französisch",
+            "true": "A"
+        },
+        "Welche Tierart finden man auf dem Kontinent Antarktika?": {
+            "a": "Koala",
+            "b": "Känguru",
+            "c": "Kaiserpinguin",
+            "d": "Schlangen",
+            "true": "C"
+        },
+        "Wie alt muss ein Auto mindestens sein, um in Deutschland als Oldtimer zu gelten?": {
+            "a": "15 Jahre",
+            "b": "20 Jahre",
+            "c": "25 Jahre",
+            "d": "30 Jahre",
+            "true": "D"
+        },
+        "Was ist das römische Zahlenzeichen für 50?": {
+            "a": "L",
+            "b": "D",
+            "c": "M",
+            "d": "X",
+            "true": "A"
+        },
+        "Mit welcher Einheit misst man Lärm?": {
+            "a": "Ohm",
+            "b": "Hertz",
+            "c": "Lux",
+            "d": "Dezibel",
+            "true": "D"
+        },
+        "Wer war von 1982-1998 Bundeskanzler in Deutschland?": {
+            "a": "Willy Brandt",
+            "b": "Helmut Kohl",
+            "c": "Helmut Schmidt",
+            "d": "Gerhard Schröder",
+            "true": "B"
+        },
+        "Was bedeutet Psychologie wörtlich übersetzt?": {
+            "a": "Lehre vom Menschen",
+            "b": "Gesundheit des Menschen",
+            "c": "Seelenkunde",
+            "d": "Wundenkunde",
+            "true": "C"
+        },
+        "Welcher Edelstein ist grün?": {
+            "a": "Saphir",
+            "b": "Smaragd",
+            "c": "Opal",
+            "d": "Rubin",
+            "true": "B"
+        },
+        "Welcher Feiertag wird am 1. Mai gefeiert?": {
+            "a": "Fronleichnam",
+            "b": "Tag der deutschen Einheit",
+            "c": "Tag der Arbeit",
+            "d": "Allerheiligen",
+            "true": "C"
+        },
+        "Wie viele Bahnhöfe gibt es beim Monopoly?": {
+            "a": "4",
+            "b": "6",
+            "c": "5",
+            "d": "3",
+            "true": "A"
+        },
+        "Wie nennt man eine Mahlzeit, die Frühstück und Mittagessen kombiniert?": {
+            "a": "Lunch",
+            "b": "Breakfast",
+            "c": "Brunch",
+            "d": "Dinner",
+            "true": "C"
+        },
+        "Welche Währung hatte Italien vor der Euro-Einführung?": {
+            "a": "Schilling",
+            "b": "Gulden",
+            "c": "Lira",
+            "d": "Drachme",
+            "true": "C"
+        },
+        "Welche Geschmacksrichtung haben weiße Gummibärchen?": {
+            "a": "Orange",
+            "b": "Apfel",
+            "c": "Ananas",
+            "d": "Zitrone",
+            "true": "C"
+        },
+        "Wie nennt man eine umgeknickte Ecke einer Buchseite?": {
+            "a": "Schafsohr",
+            "b": "Eselsohr",
+            "c": "Eselsecke",
+            "d": "Schafsecke",
+            "true": "B"
+        },
+        "Was besagt der Intelligenzquotient (IQ)?": {
+            "a": "Merkfähigkeit",
+            "b": "Aufnahmegeschwindigkeit",
+            "c": "Intellektuelles Leistungsvermögens",
+            "d": "Leistungsfähigkeit Gedächtnis",
+            "true": "C"
+        },
+        "In welchem Jahr bekam Nelson Mandela den Friedensnobelpreis?": {
+            "a": "1989",
+            "b": "1984",
+            "c": "1996",
+            "d": "1993",
+            "true": "D"
+        },
+        "Wie nennt man die Zeitspanne, in der sich die Erde einmal um die Sonne dreht?": {
+            "a": "Jahr",
+            "b": "Monat",
+            "c": "Woche",
+            "d": "Jahrhundert",
+            "true": "A"
+        },
+        "Wie viel Gramm sind ein Pfund?": {
+            "a": "500",
+            "b": "250",
+            "c": "1000",
+            "d": "100",
+            "true": "A"
+        },
+        "Womit misst man im Auto die Geschwindigkeit?": {
+            "a": "Tachometer",
+            "b": "Hygrometer",
+            "c": "Barometer",
+            "d": "Thermometer",
+            "true": "A"
+        },
+        "Wie heißt die russische Währung?": {
+            "a": "Rubel",
+            "b": "Dollar",
+            "c": "Euro",
+            "d": "Pfund",
+            "true": "A"
+        },
+        "Wie heißt die kleinste Dateneinheit in der EDV?": {
+            "a": "Word",
+            "b": "Byte",
+            "c": "Bit",
+            "d": "Double",
+            "true": "C"
+        },
+        "Welche Tierpfote gilt als Glücksbringer?": {
+            "a": "Katzenpfote",
+            "b": "Hasenpfote",
+            "c": "Hamsterpfote",
+            "d": "Hundepfote",
+            "true": "B"
+        },
+        "Welche ansteckende Krankheit entvölkerte im Mittelalter halb Europa?": {
+            "a": "Spanische Grippe",
+            "b": "Pest",
+            "c": "Typhus",
+            "d": "Schweinegrippe",
+            "true": "B"
+        },
+        "Wie viele Jahre dauert es in etwa bis der Saturn die Sonne umrundet hat?": {
+            "a": "ca. 10 Jahre",
+            "b": "ca. 29 Jahre",
+            "c": "ca. 40 Jahre",
+            "d": "ca. 20 Jahre",
+            "true": "B"
+        },
+        "Wie viele Felder befinden sich auf einem Schachbrett?": {
+            "a": "64",
+            "b": "32",
+            "c": "128",
+            "d": "16",
+            "true": "A"
+        },
+        "Wann zerfiel die Sowjetunion endgültig?": {
+            "a": "24. Dezember 1991",
+            "b": "25. Dezember 1991",
+            "c": "26. Dezember 1991",
+            "d": "31. Dezember 1991",
+            "true": "B"
+        },
+        "Eine Krake hat was davon?": {
+            "a": "2 Beine",
+            "b": "2 Lungen",
+            "c": "3 Herzen",
+            "d": "12 Arme",
+            "true": "C"
+        },
+        "Wie groß ist die bewohnbare Fläche von Grönland ungefähr?": {
+            "a": "So groß wie Luxembourg",
+            "b": "So groß wie Südkorea",
+            "c": "So groß wie Marokko",
+            "d": "So groß wie Schweden",
+            "true": "D"
+        },
+        "Aus welchen 2 Stoffen besteht Messing und wie hoch sind die prozentual enthalten?": {
+            "a": "Kupfer &  Zink (bis zu 20% Kupfer, Rest Zink)",
+            "b": "Kupfer und Zink (bis zu 40% Kupfer, Rest Zink)",
+            "c": "Schwefel und Zink (Schwefel 30%, 70% Zink)",
+            "d": "Aluminium und Kupfer (Hälfte/Hälfte)",
+            "true": "B"
+        },
+        "Welcher deutsche Bundeskanzler erhielt den Friedensnobelpreis?": {
+            "a": "Konrad Adenauer",
+            "b": "Helmut Kohl",
+            "c": "Helmut Schmidt",
+            "d": "Willy Brandt",
+            "true": "D"
+        },
+        "Wer war Frank Kafka?": {
+            "a": "Ein Sänger",
+            "b": "Ein Schriftsteller",
+            "c": "Ein Politiker",
+            "d": "Ein Musiker",
+            "true": "B"
+        },
+        "Wie viel Liter Bier werden in Deutschland pro Kopf circa jährlich getrunken?": {
+            "a": "100 Liter",
+            "b": "50 Liter",
+            "c": "500 Liter",
+            "d": "10 Liter",
+            "true": "A"
+        },
+        "Wie heißt die Hauptstadt von Thüringen?": {
+            "a": "Magdeburg",
+            "b": "Erfurt",
+            "c": "Dresden",
+            "d": "Potsdam",
+            "true": "B"
+        },
+        "Was ist ein Oxymoron?": {
+            "a": "Ein innerer Widerspruch",
+            "b": "Ein Versfuß",
+            "c": "Eine Wiederholung",
+            "d": "Eine Frageform",
+            "true": "A"
+        },
+        "In welchem Land wohnen die meisten Menschen?": {
+            "a": "China",
+            "b": "USA",
+            "c": "Russland",
+            "d": "Kenia",
+            "true": "A"
+        },
+        "Von wem stammt die Relativitätstheorie?": {
+            "a": "Nikola Tesla",
+            "b": "Stephen Hawking",
+            "c": "Albert Einstein",
+            "d": "Marie Curie",
+            "true": "C"
+        },
+        "Welches Instrument hat Tasten, Pedale und Saiten?": {
+            "a": "Harfe",
+            "b": "Piano",
+            "c": "Violine",
+            "d": "Gitarre",
+            "true": "B"
+        },
+        "Wie heisst die Hauptstadt von Kenia?": {
+            "a": "Accra",
+            "b": "Damaskus",
+            "c": "Tripoli",
+            "d": "Nairobi",
+            "true": "D"
+        },
+        "Zu welcher Familie gehört der Fuchs?": {
+            "a": "Katzen",
+            "b": "Kleinbären",
+            "c": "Hunde",
+            "d": "Marder",
+            "true": "C"
+        },
+        "Welcher Schweizer bekam 1901 den ersten Friedensnobelpreis?": {
+            "a": "Max Aub",
+            "b": "Ernst Abbe",
+            "c": "Antonio Abetti",
+            "d": "Henry Dunant",
+            "true": "D"
+        },
+        "Welche Farbe hat ein Regenbogen ganz außen (oben)?": {
+            "a": "grün",
+            "b": "blau",
+            "c": "rot",
+            "d": "gelb",
+            "true": "C"
+        },
+        "Welcher Begriff bezeichnet eine Wolkenart?": {
+            "a": "Wolkus",
+            "b": "Stagnus",
+            "c": "Cumulus",
+            "d": "Fratus",
+            "true": "C"
+        },
+        "Wie lautet die Hauptstadt des US-Bundesstaates Alaska?": {
+            "a": "Denver",
+            "b": "Atlanta",
+            "c": "Frankfort",
+            "d": "Juneau",
+            "true": "D"
+        },
+        "Welche ist die günstigste Straße beim deutschen Monopoly?": {
+            "a": "Schillerstraße",
+            "b": "Rathausplatz",
+            "c": "Turmstraße",
+            "d": "Badstraße",
+            "true": "D"
+        },
+        "Wo wurde Wolfgang Amadeus Mozart geboren?": {
+            "a": "Salzburg",
+            "b": "Wien",
+            "c": "Nürnberg",
+            "d": "Würzburg",
+            "true": "A"
+        },
+        "Wer schrieb \"Die Verwandlung\"?": {
+            "a": "Umberto Eoc",
+            "b": "Johann Wolfgang von Goethe",
+            "c": "Franz Kafka",
+            "d": "Friedrich Dürrenmatt",
+            "true": "C"
+        },
+        "Welche Buchstabenbelegung befindet sich auf der Taste 9 eines Handys?": {
+            "a": "ABC",
+            "b": "YZ",
+            "c": "ABCD",
+            "d": "WXYZ",
+            "true": "D"
+        },
+        "Welche Ordnungszahl hat Kupfer im Periodensystem der Elemente?": {
+            "a": "28",
+            "b": "29",
+            "c": "30",
+            "d": "31",
+            "true": "B"
+        },
+        "Welches Bauwerk wurde zu Ehren einer verstorbenen Liebe errichtet?": {
+            "a": "Lotustempel",
+            "b": "Burj Khalifa",
+            "c": "Taj Mahal",
+            "d": "Kolosseum",
+            "true": "C"
+        },
+        "Wer zog am 27. Oktober 1806 durch das Brandenburger Tor in Berlin ein?": {
+            "a": "Ludwig XVIII.",
+            "b": "Wilhelm II.",
+            "c": "Napoleon",
+            "d": "Friedrich der Große",
+            "true": "C"
+        },
+        "Wer war der zweite Bundeskanzler Deutschlands (BRD)?": {
+            "a": "Ludwig Erhard",
+            "b": "Helmut Schmidt",
+            "c": "Gerhard Schröder",
+            "d": "Konrad Adenauer",
+            "true": "A"
+        },
+        "Was ist ein passendes Synonym für \"echauffieren\"?": {
+            "a": "schmunzeln",
+            "b": "sich ärgern",
+            "c": "jemanden zum lachen bringen",
+            "d": "jemanden begleiten",
+            "true": "B"
+        },
+        "Lima ist die Hauptstadt welchen Landes?": {
+            "a": "Venezuela",
+            "b": "Peru",
+            "c": "Bolivien",
+            "d": "Guyana",
+            "true": "B"
+        },
+        "Wo hat die FIFA ihren Sitz?": {
+            "a": "Zürich",
+            "b": "Wien",
+            "c": "London",
+            "d": "Rom",
+            "true": "A"
+        },
+        "Welcher Schauspieler verkörperte im Jahr 1965 James Bond?": {
+            "a": "Timothy Dalton",
+            "b": "Pierce Brosnan",
+            "c": "Sean Connery",
+            "d": "Roger Moore",
+            "true": "C"
+        },
+        "Wann fand die Schlacht von Stalingrad statt?": {
+            "a": "1942 bis 1943",
+            "b": "1916 bis 1917",
+            "c": "1889 bis 1890",
+            "d": "1907 bis 1908",
+            "true": "A"
+        },
+        "Welche Institution wurde 1949 durch den Londoner Zehnmächtepakt gegründet?": {
+            "a": "UNO",
+            "b": "Europarat",
+            "c": "NATO",
+            "d": "Montan-Union",
+            "true": "B"
+        },
+        "Robert Wilhelm Bunsen gilt als Erfinder des ...": {
+            "a": "... Reagenzglases.",
+            "b": "... Lackmuspapiers.",
+            "c": "... Elektronenmikroskops.",
+            "d": "... Gasbrenners.",
+            "true": "D"
+        },
+        "Wie viele Jahre dauert es in etwa bis der Jupiter die Sonne umrundet hat?": {
+            "a": "ca. 24 Jahre",
+            "b": "ca. 20 Jahre",
+            "c": "ca. 8 Jahre",
+            "d": "ca. 12 Jahre",
+            "true": "D"
+        },
+        "Wann wurde die Spielefirma Nintendo gegründet?": {
+            "a": "23. September 1889",
+            "b": "14 Juni 1924",
+            "c": "7. Mai 1956",
+            "d": "1. Januar 1975",
+            "true": "A"
+        },
+        "Wie viel Prozent entsprechen drei Viertel?": {
+            "a": "66,66%",
+            "b": "25%",
+            "c": "75%",
+            "d": "45%",
+            "true": "C"
+        },
+        "Der erste Hauptsatz der Thermodynamik beschreibt ...": {
+            "a": ".. das Gesetz des thermischen Gleichgewichts.",
+            "b": "... den Entropiesatz.",
+            "c": "... den Energierhaltungssatz.",
+            "d": "... das Nernstsche Wärmetheorem.",
+            "true": "C"
+        },
+        "Wie hieß das erste weltweit erfolgreiche Videospiel?": {
+            "a": "Super Mario Bros",
+            "b": "Tetris",
+            "c": "Pong",
+            "d": "Pokémon",
+            "true": "C"
+        },
+        "In der Steinzeit waren die Frauen Sammlerinnen und die Männer ...?": {
+            "a": "Jäger",
+            "b": "Handwerker",
+            "c": "Kämpfer",
+            "d": "Räuber",
+            "true": "A"
+        },
+        "Wann wurde die Firma Microsoft gegründet?": {
+            "a": "6. März 1970",
+            "b": "17. September 1965",
+            "c": "4. April 1975",
+            "d": "22. Dezember 1980",
+            "true": "B"
+        },
+        "Wie viele Suchanfragen verarbeitet Google im Jahr 2016 weltweit?": {
+            "a": "500 Millionen",
+            "b": "1 Billion",
+            "c": "2,5 Billionen",
+            "d": "3,3 Billionen",
+            "true": "D"
+        },
+        "Wann wurde die Firma \"Nokia\" gegründet?": {
+            "a": "12. Mai 1865",
+            "b": "20. August 1903",
+            "c": "6. Januar 1934",
+            "d": "28. März 1965",
+            "true": "A"
+        },
+        "In welcher Sportart ist es verboten, volley zu returnieren?": {
+            "a": "Tennis",
+            "b": "Badminton",
+            "c": "Tischtennis",
+            "d": "Squash",
+            "true": "C"
+        },
+        "Wie nennt man den Glühfaden in einer Glühlampe?": {
+            "a": "Drahtel",
+            "b": "Wendel",
+            "c": "Glühel",
+            "d": "Lichtel",
+            "true": "B"
+        },
+        "Aus welchen drei Grundfarben besteht das Fernsehbild?": {
+            "a": "Rot, Grün, Blau",
+            "b": "Weiß, Blau, Gelb",
+            "c": "Grün, Blau, Schwarz",
+            "d": "Gelb, Grün, Blau",
+            "true": "A"
+        },
+        "Von welcher Krankheit werden nur Männer betroffen?": {
+            "a": "Priapismus",
+            "b": "Meningitis",
+            "c": "Osteoporose",
+            "d": "Arthritis",
+            "true": "A"
+        },
+        "Welches war der meistverkaufte Heimcomputer der Welt?": {
+            "a": "Amiga 500",
+            "b": "Apple II",
+            "c": "IBM PC",
+            "d": "Commodore 64",
+            "true": "D"
+        },
+        "Wofür steht die Abkürzung KGaA?": {
+            "a": "Kreditgesellschaft auf Aktien",
+            "b": "Kommanditgesellschaft auf Aktien",
+            "c": "Kardinalgesellschaft auf Aktien",
+            "d": "Kompetenzgesellschaft auf Aktien",
+            "true": "B"
+        },
+        "Welches Land ist kein ständiges Mitglied im Sicherheitsrat der Vereinten Nationen?": {
+            "a": "USA",
+            "b": "Russland",
+            "c": "Deutschland",
+            "d": "China",
+            "true": "C"
+        },
+        "Wie viel Prozent unserer Erdoberfläche ist dauerhaft gefroren?": {
+            "a": "etwa 11 Prozent",
+            "b": "etwa 17 Prozent",
+            "c": "etwa 29 Porzent",
+            "d": "etwa 35 Prozent",
+            "true": "C"
+        },
+        "Eizelle und Spermium treffen aufeinander. Was entsteht?": {
+            "a": "eine Zygote",
+            "b": "eine Erythrozyte",
+            "c": "eine Gamete",
+            "d": "eine Gliazelle",
+            "true": "A"
+        },
+        "Welches dieser Tiere hält keinen Winterschlaf?": {
+            "a": "Eichhörnchen",
+            "b": "Fledermaus",
+            "c": "Igel",
+            "d": "Siebenschläfer",
+            "true": "A"
+        },
+        "Wofür steht das „L“ im Sender RTL?": {
+            "a": "London",
+            "b": "Luxenbourg",
+            "c": "Liechtenstein",
+            "d": "Los Angeles",
+            "true": "B"
+        },
+        "Wo fanden die Olympischen Spiele 1996 statt?": {
+            "a": "Atlanta",
+            "b": "Turin",
+            "c": "Barcelona",
+            "d": "Los Angeles",
+            "true": "A"
+        },
+        "Wie heißt die Hauptstadt von Äthiopien?": {
+            "a": "Nairobi",
+            "b": "Mogadischu",
+            "c": "Harare",
+            "d": "Addis Abeba",
+            "true": "D"
+        },
+        "Wer war von 1981 bis 1995 französischer Präsident?": {
+            "a": "Jaques Chirac",
+            "b": "Francois Mitterand",
+            "c": "Valéry Giscard d’Estaing",
+            "d": "Charles de Gaulle",
+            "true": "B"
+        },
+        "Was soll Cäsar gesagt haben, als er den Rubikon überquerte?": {
+            "a": "veni, vidi, vici",
+            "b": "divide et empera",
+            "c": "alea iacta est",
+            "d": "et tu, brute",
+            "true": "C"
+        },
+        "Wie lang ist der afrikanische Fluss Niger?": {
+            "a": "4.184 Kilometer",
+            "b": "4.531 Kilometer",
+            "c": "5.329 Kilometer",
+            "d": "3.241 Kilometer",
+            "true": "A"
+        },
+        "Der Durchmesser der Erde beträgt ...": {
+            "a": "... 10.192 Kilometer.",
+            "b": "... 12.742 Kilometer.",
+            "c": "... 13.982 Kilometer.",
+            "d": "... 19.322 Kilometer.",
+            "true": "B"
+        },
+        "Wer ist Rekordtorschütze der Bundesliga? (Stand April 2021)": {
+            "a": "Klaus Fischer",
+            "b": "Jupp Heynckes",
+            "c": "Manfred Burgsmüller",
+            "d": "Gerd Müller",
+            "true": "D"
+        },
+        "Was verbindet der Panamakanal?": {
+            "a": "das Beringmeer mit dem Pazifik",
+            "b": "das Karibische Meer mit dem Pazifik",
+            "c": "die Hudsonbai mit dem Atlantischen Ozean",
+            "d": "den Golf von Mexico mit dem Pazifik",
+            "true": "B"
+        },
+        "Wie viele Oscars gewann der Film „Titanic“?": {
+            "a": "10",
+            "b": "11",
+            "c": "12",
+            "d": "13",
+            "true": "B"
+        },
+        "Frage 12 von 20\nWie lange wird die Sonne in etwa noch leuchten?": {
+            "a": "Das kann keiner abschätzen.",
+            "b": "Sie erlischt niemals, da im Inneren neuer Wasserstoff gebildet wird.",
+            "c": "5 Milliarden Jahre",
+            "d": "100 Millionen Jahre",
+            "true": "C"
+        },
+        "Teneriffa, Gran Canaria und Fuerteventura gehören zu den…?": {
+            "a": "Kanarischen Inseln",
+            "b": "Balearen",
+            "c": "Karibischen Inseln",
+            "d": "Azoren",
+            "true": "A"
+        },
+        "Wie beginnt Artikel 1 des deutschen Grundgesetzes?": {
+            "a": "„Alle Menschen sind vor dem Gesetz gleich.“",
+            "b": "„Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit.“",
+            "c": "„Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu äußern.“",
+            "d": "„Die Würde des Menschen ist unantastbar.“",
+            "true": "D"
+        },
+        "Welches Land verfügt über die meisten Zeitzonen?": {
+            "a": "Frankreich",
+            "b": "USA",
+            "c": "Russland",
+            "d": "Großbritannien",
+            "true": "A"
+        },
+        "Wer gilt als Verfasser der amerikanischen Unabhängigkeitserklärung?": {
+            "a": "Thomas Jefferson",
+            "b": "Benjamin Franklin",
+            "c": "George Washington",
+            "d": "John Adams",
+            "true": "A"
+        },
+        "Welche Adresse ist mit Sherlock Holmes verbunden?": {
+            "a": "Downing Street 10",
+            "b": "Abbey Road 42",
+            "c": "221b Baker Street",
+            "d": "Princess Street 7",
+            "true": "C"
+        },
+        "Wie lautet das chemische Symbol für Blei?": {
+            "a": "Bl",
+            "b": "Pb",
+            "c": "Be",
+            "d": "Pt",
+            "true": "B"
+        },
+        "In welchem Meer liegt die Insel Hawaii?": {
+            "a": "Atlantischer Ozean",
+            "b": "Indischer Ozean",
+            "c": "Karibisches Meer",
+            "d": "Pazifischer Ozean",
+            "true": "D"
+        },
+        "Einige wichtige deutsche Ereignisse fallen auf einen Schicksalstag in der deutschen Geschichte, den 9. November. Welches nicht?": {
+            "a": "Hinrichtung Robert Blums bei Wien (1848)",
+            "b": "SED-Chef Erich Honecker tritt zurück (1989)",
+            "c": "Reichspogromnacht (1938)",
+            "d": "Hitlerputsch (1923)",
+            "true": "B"
+        },
+        "Welchen Namen trägt die Universität Frankfurt am Main?": {
+            "a": "Friedrich Schiller",
+            "b": "Bertolt Brecht",
+            "c": "Johann Wolfgang von Goethe",
+            "d": "Heinrich Heine",
+            "true": "C"
+        },
+        "Die Einwohnerzahl Chinas betrug 2019 rund ...": {
+            "a": "... 900 Millionen Menschen.",
+            "b": "... 1 Milliarde Menschen.",
+            "c": "... 1,4 Milliarden Menschen.",
+            "d": "... 1,9 Milliarden Menschen",
+            "true": "C"
+        },
+        "Arnold Schwarzenegger war der 38. Gouverneur welches US-Bundestaates?": {
+            "a": "New York",
+            "b": "Virginia",
+            "c": "Arkansas",
+            "d": "Kalifornien",
+            "true": "D"
+        },
+        "Wer verbreitete das heliozentrische Weltbild?": {
+            "a": "Galileo Galilei",
+            "b": "Nikolaus Kopernikus",
+            "c": "Leonardo da Vinci",
+            "d": "Aristoteles",
+            "true": "B"
+        },
+        "Welches ist kein Bundesland in Österreich?": {
+            "a": "Burgenland",
+            "b": "Vorarl­berg",
+            "c": "Wien",
+            "d": "St. Gallen",
+            "true": "D"
+        },
+        "Was ist ein Sonett?": {
+            "a": "Eine Stichwaffe",
+            "b": "Ein Musikinstrument",
+            "c": "Ein Pilz",
+            "d": "Eine Gedichtsform",
+            "true": "D"
+        },
+        "Wo liegt der aktive Vulkan Colima?": {
+            "a": "Spanien",
+            "b": "Mexiko",
+            "c": "Italien",
+            "d": "Chile",
+            "true": "B"
+        },
+        "Wie heißt die Schicht der Atmosphäre, die der Erde am nächsten ist?": {
+            "a": "Troposphäre",
+            "b": "Stratosphäre",
+            "c": "Mesosphäre",
+            "d": "Thermosphäre",
+            "true": "A"
+        },
+        "Der Marianengraben ist der tiefste Tiefseegraben des Weltmeeres. Doch wie viele Gräben weltweit haben eine Tiefe von mehr als 10.000 Metern?": {
+            "a": "3",
+            "b": "4",
+            "c": "5",
+            "d": "6",
+            "true": "D"
+        },
+        "Wer spielt die Hauptrolle im Film „Einer flog über das Kuckucksnest“?": {
+            "a": "Robert de Niro",
+            "b": "Jack Nicholson",
+            "c": "Mel Gibson",
+            "d": "Tom Hanks",
+            "true": "B"
+        },
+        "Wie viel Prozent der Erde sind circa von Wasser bedeckt?": {
+            "a": "50 Prozent",
+            "b": "60 Prozent",
+            "c": "70 Prozent",
+            "d": "80 Prozent",
+            "true": "C"
+        },
+        "Wie viele Liter Bier werden in Deutschland pro Mensch durchschnittlich im Jahr getrunken?": {
+            "a": "50 Liter",
+            "b": "75 Liter",
+            "c": "100 Liter",
+            "d": "200 Liter",
+            "true": "C"
+        },
+        "Wie viele Buchstaben hat das hawaiianische Alphabet?": {
+            "a": "12",
+            "b": "24",
+            "c": "26",
+            "d": "32",
+            "true": "A"
+        },
+        "Wie viele Menschen gelten weltweit als hochbegabt, haben also einen IQ von mindestens 130": {
+            "a": "etwa 0,5 Prozent",
+            "b": "etwa 2 Prozent",
+            "c": "etwa 5 Prozent",
+            "d": "etwa 7 Prozent",
+            "true": "B"
+        },
+        "Im Laufe eines 60 Jährigen Lebens hat ein Mann durchschnittliche wie lange eine Erektion während er schläft?": {
+            "a": "1 Jahr",
+            "b": "3 Jahre",
+            "c": "5 Jahre",
+            "d": "7 Jahre",
+            "true": "C"
+        },
+        "Wie lange dauert der 30-jährige Krieg?": {
+            "a": "2 Jahre",
+            "b": "8 Jahre",
+            "c": "13 Jahre",
+            "d": "30 Jahre",
+            "true": "D"
+        },
+        "Was ist die Amtssprache Brasiliens?": {
+            "a": "Spanisch",
+            "b": "Portugiesisch",
+            "c": "Englisch",
+            "d": "Französisch",
+            "true": "B"
+        },
+        "Wann legalisierte Kanada den Konsum von Cannabis für Erwachsene?": {
+            "a": "2017",
+            "b": "2018",
+            "c": "2019",
+            "d": "2020",
+            "true": "B"
+        },
+        "Präsident welchen Landes war Nelson Mandela?": {
+            "a": "Südafrika",
+            "b": "Südkorea",
+            "c": "Argentinien",
+            "d": "Spanien",
+            "true": "A"
+        },
+        "Der Europäische Rat hat seinen Sitz in ...": {
+            "a": "... Luxemburg.",
+            "b": "... Brüssel.",
+            "c": "... Straßburg.",
+            "d": "... Berlin.",
+            "true": "B"
+        },
+        "Wer bekämpfte sich im „Falklandkrieg“?": {
+            "a": "Deutschland und Frankreich",
+            "b": "Kanada und Irland",
+            "c": "Süd- und Nordkorea",
+            "d": "Argentinien und Großbritannien",
+            "true": "D"
+        },
+        "In welchem Land explodierte die \"Hindenburg\" im Mai 1937?": {
+            "a": "USA",
+            "b": "Frankreich",
+            "c": "Deutschland",
+            "d": "England",
+            "true": "A"
+        },
+        "Wo fand 1816 die erste Sitzung des ersten Deutschen Bundestages statt?": {
+            "a": "Bonn",
+            "b": "München",
+            "c": "Frankfurt am Main",
+            "d": "Berlin",
+            "true": "C"
+        },
+        "Wie viele Farben hat die dänische Flagge?": {
+            "a": "1",
+            "b": "3",
+            "c": "4",
+            "d": "2",
+            "true": "D"
+        },
+        "Wie viele Binnenstaaten gibt es weltweit?": {
+            "a": "22",
+            "b": "11",
+            "c": "44",
+            "d": "33",
+            "true": "C"
+        },
+        "Wann begann der Bau der Berliner Mauer?": {
+            "a": "1945",
+            "b": "1961",
+            "c": "1968",
+            "d": "1938",
+            "true": "B"
+        },
+        "Welches dieser Bundesländer ist am kleinsten?": {
+            "a": "Sachsen",
+            "b": "Hessen",
+            "c": "Schleswig-Holstein",
+            "d": "Brandenburg",
+            "true": "C"
+        },
+        "Wofür steht „APO“?": {
+            "a": "Australische Polizei-Oberbehörde",
+            "b": "Außerparlamentarische Opposition",
+            "c": "Antipolitische Organisation",
+            "d": "Abendliche Party-Ordnung",
+            "true": "B"
+        },
+        "Was fand NICHT an einem 09. November statt?": {
+            "a": "Pogromnacht",
+            "b": "Fall der Berliner Mauer",
+            "c": "Bedingungslose Kapitulation des „Dritten Reichs“",
+            "d": "„Hitlerputsch“ in München",
+            "true": "C"
+        },
+        "Was fand 2004 in der Ukraine statt?": {
+            "a": "Proteste auf dem „Majdan“",
+            "b": "„Orangene Revolution“",
+            "c": "„Nelkenrevolution“",
+            "d": "UEFA Fußball-Europameisterschaft",
+            "true": "B"
+        },
+        "Der Daumen besteht aus zwei Fingerknochen, die anderen Finger haben ...": {
+            "a": "... drei.",
+            "b": "... einen.",
+            "c": "... zwei.",
+            "d": "... vier.",
+            "true": "A"
+        },
+        "Welcher Planet ist nicht nur der schwerste sondern auch der größte unseres Sonnensystems": {
+            "a": "Jupiter",
+            "b": "Saturn",
+            "c": "Mars",
+            "d": "Venus",
+            "true": "A"
+        },
+        "In welchem Monat fand nach dem\n bei uns gültigen gregorianischen Kalender\n die Februarrevolution in Russland 1816\n statt?": {
+            "a": "Januar",
+            "b": "Februar",
+            "c": "März",
+            "d": "Dezember",
+            "true": "C"
+        },
+        "Kiew ist die Hauptstadt ...": {
+            "a": "... der Ukraine.",
+            "b": "... Litauens.",
+            "c": "... Lettlands.",
+            "d": "... Estlands.",
+            "true": "A"
+        },
+        "In welcher TV-Serie sprechen\n einige Menschen Dothraki?": {
+            "a": "24",
+            "b": "Game of Thrones",
+            "c": "Lindenstraße",
+            "d": "The Walking Dead",
+            "true": "B"
+        },
+        "Wofür steht die römische Zahl \"C\"?": {
+            "a": "1.000",
+            "b": "50",
+            "c": "100",
+            "d": "500",
+            "true": "C"
+        },
+        "Wie nennt man ein männliches Schaf?": {
+            "a": "Zibbe",
+            "b": "Mufflon",
+            "c": "Hammel",
+            "d": "Widder",
+            "true": "D"
+        },
+        "Wer schrieb „Faust“?": {
+            "a": "Friedrich Schiller",
+            "b": "Max Frisch",
+            "c": "Virginia Woolf",
+            "d": "Johann Wolfgang von Goethe",
+            "true": "D"
+        },
+        "Wie alt ist das für deutsches Bier\n geltende Bayerische Reinheitsgebot?": {
+            "a": "200 Jahre",
+            "b": "500 Jahre",
+            "c": "1000 Jahre",
+            "d": "2000 Jahre",
+            "true": "B"
+        },
+        "Wann beginnt traditionell die\n Karnevals Saison?": {
+            "a": "Am 01. Januar",
+            "b": "Am 14. Februar",
+            "c": "Am 11. November",
+            "d": "Am 06. Dezember",
+            "true": "C"
+        },
+        "Wen zeichnete Albert Uderzo?": {
+            "a": "Tim und Struppi",
+            "b": "Die Maus und den Elefanten",
+            "c": "Asterix und Obelix",
+            "d": "Calvin und Hobbes",
+            "true": "C"
+        },
+        "Welche Schlange ist nicht giftig?": {
+            "a": "Inlandtaipan",
+            "b": "Gelbe Anakonda",
+            "c": "Königskobra",
+            "d": "Schwarze Mamba",
+            "true": "B"
+        },
+        "Wo findet man das\n „Limbische System“?": {
+            "a": "Im Gehirn",
+            "b": "Im Universum",
+            "c": "In der Politik",
+            "d": "In der Natur",
+            "true": "A"
+        },
+        "Der Haupteingang des Louvre ist ...": {
+            "a": "... ein Spiegelkabinett.",
+            "b": "... ein Glaswürfel.",
+            "c": "... eine normale Tür.",
+            "d": "... eine Glaspyramide.",
+            "true": "D"
+        },
+        "In welchem Land gibt es eine\n Weltmeisterschaft im Luftgitarre Spielen?": {
+            "a": "Finnland",
+            "b": "Norwegen",
+            "c": "Schweden",
+            "d": "Dänemark",
+            "true": "A"
+        },
+        "Welches gilt nach dem\nHuman Development Report\n als bestes Land der Welt?": {
+            "a": "USA",
+            "b": "Frankreich",
+            "c": "Schweiz",
+            "d": "Norwegen",
+            "true": "D"
+        },
+        "Wie viele Menschen sprechen\n Russisch als Muttersprache?": {
+            "a": "Etwa 3 Millionen",
+            "b": "Etwa 60 Millionen",
+            "c": "Etwa 160 Millionen",
+            "d": "Etwa 300 Millionen",
+            "true": "C"
+        },
+        "Die Bremer Stadtmusikanten bestehen aus ...": {
+            "a": "... drei Tieren.",
+            "b": "... fünf Tieren.",
+            "c": "... sechs Tieren.",
+            "d": "... vier Tieren.",
+            "true": "D"
+        },
+        "Welcher ist der längste Fluss der Welt?": {
+            "a": "Nil",
+            "b": "Amazonas",
+            "c": "Kongo",
+            "d": "Rhein",
+            "true": "B"
+        },
+        "Wie viele Menschen starben 2010 bei dem Erdbeben in Haiti?": {
+            "a": "Es waren ca. 600.000 Menschen...",
+            "b": "Es waren ca. 50.000 Menschen...",
+            "c": "Es waren ca. 300.000 Menschen...",
+            "d": "Es waren ca. 100.000 Menschen",
+            "true": "C"
+        },
+        "Wann ging der Erste Weltkrieg zu Ende?": {
+            "a": "1914",
+            "b": "1918",
+            "c": "1944",
+            "d": "1948",
+            "true": "B"
+        },
+        "Welches ist das schnellste Wassertier?": {
+            "a": "Segelfisch",
+            "b": "Schwertfisch",
+            "c": "Thunfisch",
+            "d": "Delphin",
+            "true": "A"
+        },
+        "Wie heißt das Mädchen im Wunderland?": {
+            "a": "Elise",
+            "b": "Alice",
+            "c": "Else",
+            "d": "Elsa",
+            "true": "B"
+        },
+        "Was gibt es wirklich?": {
+            "a": "Tomatenreaktor",
+            "b": "Muschelreaktor",
+            "c": "Algenreaktor",
+            "d": "Rosenreaktor",
+            "true": "C"
+        },
+        "Wie schnell kann sich die Lederschildkröte im Wasser fortbewegen?": {
+            "a": "20 km/h",
+            "b": "30 km/h",
+            "c": "35 km/h",
+            "d": "40 km/h",
+            "true": "C"
+        },
+        "Wie werden männliche Wildschweine genannt?": {
+            "a": "Seiler",
+            "b": "Feiler",
+            "c": "Heiler",
+            "d": "Keiler",
+            "true": "D"
+        },
+        "Wann war der Urknall?": {
+            "a": "c.a. 10,3 Millionen Jahre",
+            "b": "c.a. 13,8 Milliarden Jahre",
+            "c": "c.a. 23,6 Milliarden Jahre",
+            "d": "c.a. 73,1 Milliarden Jahre",
+            "true": "B"
+        },
+        "Das flächenmäßig kleinste Bundesland heißt?": {
+            "a": "Berlin",
+            "b": "Bremen",
+            "c": "Saarland",
+            "d": "Hamburg",
+            "true": "B"
+        },
+        "Was bedeutet das lateinische “carpe diem” ?": {
+            "a": "Genieße das Leben",
+            "b": "Nutze den Tag",
+            "c": "Dein Tag wird toll werden",
+            "d": "Man sieht sich immer zweimal im Leben",
+            "true": "B"
+        },
+        "Was ist die “Goldene Himbeere”?": {
+            "a": "Ein Preis für die schlechteste Leistung innerhalb eines Filmjahres",
+            "b": "Eine Nachspeise aus Russland",
+            "c": "Das teuerste Schmuckstück der Welt",
+            "d": "Das Symbol einer Sekte",
+            "true": "A"
+        },
+        "Welcher deutsche Herrscher trug den Beinamen “der Große”?": {
+            "a": "Friedrich der I. von Preußen",
+            "b": "Friedrich der III. von Sachsen",
+            "c": "Friedrich II. von Preußen",
+            "d": "Friedrich der III. von Österreich",
+            "true": "C"
+        },
+        "Welcher Pilz ist einer der giftigsten der Welt?": {
+            "a": "Der Fliegenpilz",
+            "b": "Der Grüne Knollenblätterpilz",
+            "c": "Der Gemeine Kartoffelbovist",
+            "d": "Der Satansröhrling",
+            "true": "B"
+        },
+        "Welche Gürtelfarbe existiert nicht im Kampfsport Karate?": {
+            "a": "Schwarz",
+            "b": "Weiß",
+            "c": "Braun",
+            "d": "Rot",
+            "true": "D"
+        },
+        "Einen Feinschmecker nennt man auch?": {
+            "a": "Gourmet",
+            "b": "Gourmed",
+            "c": "Genießer",
+            "d": "Leckermäulchen",
+            "true": "A"
+        },
+        "Welche Insel gehört nicht zu den Balearischen Inseln?": {
+            "a": "Ibiza",
+            "b": "Formentera",
+            "c": "Cabrera",
+            "d": "Gran Canaria",
+            "true": "D"
+        },
+        "Welcher Schauspieler hat nicht in einem James Bond-Film mitgespielt?": {
+            "a": "Timothy Dalton",
+            "b": "Leonardo DiCaprio",
+            "c": "Daniel Craig",
+            "d": "Javier Bardem",
+            "true": "B"
+        },
+        "Folgt man dem Äquator um die Welt, legt man wie viele Kilometer zurück?": {
+            "a": "Rund 40.070 km",
+            "b": "Rund 30.070 km",
+            "c": "Rund 60.070 km",
+            "d": "Rund 80.070 km",
+            "true": "A"
+        },
+        "Wer oder was ist eine “Druidin”?": {
+            "a": "Eine Kräutersammlerin im Harz",
+            "b": "Eine Hunderasse aus China",
+            "c": "Ein Magnetfeld",
+            "d": "Eine Priesterin oder Zauberin der keltischen Religion",
+            "true": "D"
+        },
+        "Mit welcher Tiergruppe sind die Dinosaurier am engsten verwandt?": {
+            "a": "Vögeln",
+            "b": "Eidechsen",
+            "c": "Alligatoren",
+            "d": "Affen",
+            "true": "A"
+        },
+        "Was meinen Weinkenner, wenn sie das Wort “rassig” verwenden?": {
+            "a": "Es beschreibt Weine mit vielen Duftstoffen",
+            "b": "Es beschreibt alkohol- und körperreiche Weine",
+            "c": "Es beschreibt Weine mit einer ausgeglichenen, aber ausgeprägten Säure",
+            "d": "Es beschreibt Weine, die im Geschmack an frisches Obst erinnern",
+            "true": "C"
+        },
+        "Wie vielen Zeitzonen gehört Russland an?": {
+            "a": "2",
+            "b": "5",
+            "c": "9",
+            "d": "11",
+            "true": "C"
+        },
+        "Wo herrscht kein Linksverkehr?": {
+            "a": "Irland",
+            "b": "Indien",
+            "c": "Großbritannien",
+            "d": "Island",
+            "true": "D"
+        },
+        "Wie viele Nieren hat ein Mensch im Normalfall?": {
+            "a": "0",
+            "b": "1",
+            "c": "2",
+            "d": "3",
+            "true": "C"
+        },
+        "Wie lange geht ein Marathon?": {
+            "a": "10 Kilometer",
+            "b": "25 Kilometer",
+            "c": "42,195 Kilometer",
+            "d": "1000 Meter",
+            "true": "C"
+        },
+        "In welchem Jahr wurde der Euro als Bargeld eingeführt?": {
+            "a": "2000",
+            "b": "2002",
+            "c": "2003",
+            "d": "2005",
+            "true": "B"
+        },
+        "Wie lautet der zweite Planet in unserem Sonnensystem?": {
+            "a": "Venus",
+            "b": "Mars",
+            "c": "Jupiter",
+            "d": "Venera",
+            "true": "A"
+        },
+        "Die Zeichentrick-Familie Simpsons lebt in welcher Stadt?": {
+            "a": "New York",
+            "b": "Springfield",
+            "c": "Chicago",
+            "d": "Minnesota",
+            "true": "B"
+        },
+        "Wie viele Milchzähne bekommt ein Kind normalerweise?": {
+            "a": "18",
+            "b": "20",
+            "c": "30",
+            "d": "32",
+            "true": "B"
+        },
+        "Wie heißt die Hauptstadt von Äthiopien": {
+            "a": "Nairobi",
+            "b": "Mogadischu",
+            "c": "Harare",
+            "d": "Addis Abeba",
+            "true": "D"
+        },
+        "Wie viele Knochen hat ein Erwachsenenkörper?": {
+            "a": "250",
+            "b": "170",
+            "c": "206",
+            "d": "215",
+            "true": "C"
+        },
+        "Welcher Sänger war unter anderem als “The King of Pop” und “The Gloved One” bekannt?": {
+            "a": "Elvis Presley",
+            "b": "Michael Jackson",
+            "c": "Frank Sinatra",
+            "d": "Dieter Bohlen",
+            "true": "B"
+        },
+        "Wie hoch hängt ein Basketball-Korb?": {
+            "a": "3.05 Meter",
+            "b": "2.90 Meter",
+            "c": "3.15 Meter",
+            "d": "3.50 Meter",
+            "true": "A"
+        },
+        "Wie lange hat Goethe an seinem „Faust“ gearbeitet?": {
+            "a": "20 Jahre",
+            "b": "64 Jahre",
+            "c": "34 Jahre",
+            "d": "10 Jahre",
+            "true": "B"
+        },
+        "Nach welcher Zeit feiert man die „Petersilienhochzeit“?": {
+            "a": "Nach 10 Jahren",
+            "b": "Nach 12 Jahren",
+            "c": "Nach 12 1/2 Jahren",
+            "d": "Nach 11 Jahren",
+            "true": "C"
+        },
+        "Welches Land ist flächenmäßig das zweitgrößte der Erde?": {
+            "a": "Russland",
+            "b": "Kanada",
+            "c": "Frankreich",
+            "d": "Deutschland",
+            "true": "B"
+        },
+        "Aus wie vielen Kräuter ist Jägermeister gemacht?": {
+            "a": "56",
+            "b": "26",
+            "c": "47",
+            "d": "61",
+            "true": "A"
+        },
+        "Wie viel wog der schwerste Mensch der Welt?": {
+            "a": "445",
+            "b": "381",
+            "c": "544",
+            "d": "677",
+            "true": "C"
+        },
+        "Bei welchem Wert liegt der Weltrekord im Dauerjodeln?": {
+            "a": "7 Std. 22 Min",
+            "b": "3 Std. 15 Min",
+            "c": "15 Std. 11 Sek.",
+            "d": "9 Std. 31 Sek.",
+            "true": "C"
+        },
+        "Wie viel Geld warfen Rom-Besucher im Jahr 2016 in den berühmten Trevi-Brunnen?": {
+            "a": "1.4 Mio. Euro",
+            "b": "1,6 Mio. Euro",
+            "c": "820.000 Euro",
+            "d": "500,000 Euro",
+            "true": "A"
+        },
+        "Von wem stammt das Zitat: „Dies ist ein kleiner Schritt für einen Menschen, aber ein riesiger Sprung für die Menschheit.“?": {
+            "a": "Neil Armstrong",
+            "b": "Elon Musk",
+            "c": "Stephen Hawking",
+            "d": "Galileo",
+            "true": "A"
+        },
+        "Auf welcher Buchreihe basiert die Erfolgsserie „Game of Thrones“?": {
+            "a": "Earth, Wind and Fire",
+            "b": "A Song of Ice and Fire",
+            "c": "Storm and Fire",
+            "d": "Rain, Thunder and Lightning",
+            "true": "B"
+        },
+        "Wie wird die Zahl unter dem Bruchstrich bezeichnet?": {
+            "a": "Nenner",
+            "b": "Quotient",
+            "c": "Zähler",
+            "d": "Teiler",
+            "true": "A"
+        },
+        "Welcher ist der längste innerdeutsche Fluss?": {
+            "a": "Rhein",
+            "b": "Weser",
+            "c": "Elbe",
+            "d": "Donau",
+            "true": "A"
+        },
+        "Lautstärke misst man ?": {
+            "a": "in Dezibel",
+            "b": "in Liter",
+            "c": "in Celsius",
+            "d": "in Gramm",
+            "true": "A"
+        },
+        "Von welchem Kontinent aus begann die Verbreitung des Homo sapiens?": {
+            "a": "Asien",
+            "b": "Afrika",
+            "c": "Amerika",
+            "d": "Europa",
+            "true": "B"
+        },
+        "Beim Poolbillard steht welche Zahl auf der schwarzen Kugel?": {
+            "a": "0",
+            "b": "1",
+            "c": "9",
+            "d": "8",
+            "true": "D"
+        },
+        "“Kunst wäscht den Staub des Alltags von der Seele.” Von wem stammt das Zitat?": {
+            "a": "Vincent van Gogh",
+            "b": "Andy Warhol",
+            "c": "Pablo Picasso",
+            "d": "Claude Monet",
+            "true": "C"
+        },
+        "Geschwister habe ich nicht, aber der Vater dieses Mannes ist der Sohn meines Vaters. Wer ist der Mann?": {
+            "a": "Bruder",
+            "b": "Opa",
+            "c": "Vater",
+            "d": "Sohn",
+            "true": "D"
+        },
+        "Welcher Agent steht im Zusammenhang mit der \"Lizenz zum Töten\"?": {
+            "a": "Kingsmen",
+            "b": "Ethan Hunt",
+            "c": "James Bond",
+            "d": "Jason Bourne",
+            "true": "C"
+        },
+        "Welcher Schauspieler verkörperte \"Harry Potter\" in den Harry Potter Filmen?": {
+            "a": "Daniel Radcliffe",
+            "b": "Rupert Grint",
+            "c": "Alan Rickman",
+            "d": "Ralph Fiennes",
+            "true": "A"
+        },
+        "Wie viele Schauspieler verkörperten \"Albus Dumbledore\" in den Harry Potter Filmen?": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+            "true": "B"
+        },
+        "Welches Betriebssystem stammt von Apple?": {
+            "a": "iOS",
+            "b": "Linux",
+            "c": "Windows",
+            "d": "Android",
+            "true": "A"
+        },
+        "Was verwendet man um chemische Elemente übersichtlich darzustellen?": {
+            "a": "Querschnittsdarstellung",
+            "b": "Übersichstlevel",
+            "c": "Periodensystem",
+            "d": "Tabellenende",
+            "true": "C"
+        },
+        "Aus was besteht Diamant?": {
+            "a": "Gold",
+            "b": "Kohlenstoff",
+            "c": "Wasser",
+            "d": "Schwefel",
+            "true": "B"
+        },
+        "Welcher bekannte Mann steht hinter Star Wars / Krieg der Sterne?": {
+            "a": "George Lucas",
+            "b": "Pierce Brosnan",
+            "c": "Angela Merkel",
+            "d": "Roger Moore",
+            "true": "A"
+        },
+        "Welcher Ozean liegt zwischen Europa und Amerika?": {
+            "a": "Pazifischer Ozean",
+            "b": "Indischer Ozean",
+            "c": "Japanischer Ozean",
+            "d": "Atlantischer Ozean",
+            "true": "D"
+        },
+        "Wie viele Figuren befinden sich am Anfang einer Schachpartie auf dem Schachbrett?": {
+            "a": "28",
+            "b": "34",
+            "c": "32",
+            "d": "30",
+            "true": "C"
+        },
+        "Welches Unternehmen wurde von Sergey Brin und Larry Page gegründet?": {
+            "a": "Microsoft",
+            "b": "Apple",
+            "c": "Google",
+            "d": "Facebook",
+            "true": "C"
+        },
+        "Aus was besteht Bronze?": {
+            "a": "Schwefel und Helium",
+            "b": "Kupfer und Zinn",
+            "c": "Kohlenstoff und Wasserstoff",
+            "d": "Säure und Base",
+            "true": "B"
+        },
+        "Was ist die tiefstmögliche Temperatur, die überhaupt möglich ist?": {
+            "a": "213,9 Grad Celsius",
+            "b": "Es giebt keine Untergrenze für die Temperatur",
+            "c": "-300,3 Grad Celsius",
+            "d": "-273.15 Grad Celsius",
+            "true": "D"
+        },
+        "Wie heißt Gold auf lateinisch?": {
+            "a": "Argentum",
+            "b": "Aurum",
+            "c": "Silizium",
+            "d": "Germanium",
+            "true": "B"
+        },
+        "Was umschreibt der Mediziner mit Logorrhö?": {
+            "a": "Durchfall",
+            "b": "Kaufzwang",
+            "c": "Rededrang",
+            "d": "Flugangst",
+            "true": "C"
+        },
+        "Der Onkel des Friedensnobelpreisträgers Albert Schweitzer ist auch der Großvater von ...?": {
+            "a": "Jacques Chirac",
+            "b": "Jean-Paul Sartre",
+            "c": "Francois Mitterand",
+            "d": "Albert Camus",
+            "true": "B"
+        },
+        "Welche dieser Inseln gehört zu Frankreich?": {
+            "a": "Elba",
+            "b": "Capri",
+            "c": "Monte Cristo",
+            "d": "Korsika",
+            "true": "D"
+        },
+        "Was versteht man unter einem \"Wurzelverzeichnis\"?": {
+            "a": "5 Wurzeln von einem Baum ineinander",
+            "b": "Sammlung math. Funktionen",
+            "c": "Teil einer Datenbank",
+            "d": "Hauptverzeichnis",
+            "true": "D"
+        },
+        "Welcher sowjetische Politiker unterbreitete 1952 einen Vorschlag für einen gesamtdeutschen Friedensvertrag?": {
+            "a": "Stalin",
+            "b": "Gorbatschow",
+            "c": "Molotov",
+            "d": "Gromiko",
+            "true": "A"
+        },
+        "Wer ist Regisseur und einer der Hauptdarsteller des Kultfilms \"Easy Rider\"?": {
+            "a": "John Travolta",
+            "b": "Dennis Hopper",
+            "c": "Donald Sutherland",
+            "d": "Peter Fonda",
+            "true": "B"
+        },
+        "Wann wurde der Dirigent Arturo Toscanini geboren?": {
+            "a": "1957",
+            "b": "1904",
+            "c": "1804",
+            "d": "1867",
+            "true": "D"
+        },
+        "Wo gibt es nach dem Titel eines Romans von Erich Maria Remarque \"Nichts Neues ...\"?": {
+            "a": "im Westen",
+            "b": "im Süden",
+            "c": "im Osten",
+            "d": "im Norden",
+            "true": "A"
+        },
+        "An welchem Meer liegt Le Havre?": {
+            "a": "am Mittelmeer",
+            "b": "am Pazifischen Ozean",
+            "c": "an der Adria",
+            "d": "am Ärmelkanal",
+            "true": "D"
+        },
+        "Mit welchem Material beschäftigt man sich beim japanischen \"Ikebana\"?": {
+            "a": "Papier",
+            "b": "Holz",
+            "c": "Blumen",
+            "d": "Glas",
+            "true": "C"
+        },
+        "Wer war der erste Bundespräsident der Bundesrepublik Deutschland?": {
+            "a": "Walter Scheel",
+            "b": "Gustav Heinemann",
+            "c": "Theodor Heuss",
+            "d": "Heinrich Lübke",
+            "true": "C"
+        },
+        "Welches Bauwerk rühmt sich der größten schwingenden Glocke?": {
+            "a": "Big Ben",
+            "b": "Kölner Dom",
+            "c": "Notre Dame",
+            "d": "Friedenskirsche",
+            "true": "B"
+        },
+        "Welche UN-Sonderorganisation ist für Erziehung, Wissenschaft und Kultur zuständig?": {
+            "a": "UNESCO",
+            "b": "UNICEF",
+            "c": "IWF",
+            "d": "WHO",
+            "true": "A"
+        },
+        "Was wird in Beaufort gemessen?": {
+            "a": "Lautheit",
+            "b": "Erdbebenstärke",
+            "c": "Schiffsgeschwindigkeit",
+            "d": "Windgeschwindigkeit",
+            "true": "D"
+        },
+        "Wie lautet der Wahlspruch der USA?": {
+            "a": "The Truth wins",
+            "b": "Liberty, Equality and Brotherliness",
+            "c": "Yes, we can",
+            "d": "In God we trust",
+            "true": "D"
+        },
+        "Welches ist die kleinste ungerade Primzahl?": {
+            "a": "5",
+            "b": "3",
+            "c": "1",
+            "d": "2",
+            "true": "B"
+        },
+        "Welches Vitamin wird dringend benötigt, wenn man \"Skorbut\" hat?": {
+            "a": "C",
+            "b": "D",
+            "c": "A",
+            "d": "B",
+            "true": "A"
+        },
+        "Mit welcher Maßeinheit bezeichnet man eine Menge von 144 Stück?": {
+            "a": "Schock",
+            "b": "Gros",
+            "c": "Dutzend",
+            "d": "Maß",
+            "true": "B"
+        },
+        "Welche Eissorte wird aus Orchideen hergestellt?": {
+            "a": "Amaretto",
+            "b": "Waldmeister",
+            "c": "Pistazie",
+            "d": "Vanille",
+            "true": "D"
+        },
+        "Aus dem Umkreis welches Malers stammt das Bild \"Der Mann mit dem Goldhelm\"?": {
+            "a": "Van Gogh",
+            "b": "Rubens",
+            "c": "Rembrandt",
+            "d": "Vermeer",
+            "true": "C"
+        },
+        "Wie heißt die Hauptstadt von Jugoslawien?": {
+            "a": "Zagreb",
+            "b": "Belgrad",
+            "c": "Sarajevo",
+            "d": "Split",
+            "true": "B"
+        },
+        "Bei wem handelt es sich nicht um ein Musketier?": {
+            "a": "Arthus",
+            "b": "Athos",
+            "c": "Aramis",
+            "d": "Portos",
+            "true": "A"
+        },
+        "In der Nähe welcher ägyptischen Stadt liegt das \"Tal der Könige\"?": {
+            "a": "Knossos",
+            "b": "Luxor",
+            "c": "Rex",
+            "d": "Odeon",
+            "true": "B"
+        },
+        "Was versteht man unter Liturgie?": {
+            "a": "Dünne Porzelanplatte, in die Reliefdarstellungen ein- gepreßt sind.",
+            "b": "Lehre vom Aufbau des Dramas",
+            "c": "Das älteste Steindruckverfahren auf Kalksteinplatten",
+            "d": "Form des Gottesdienstes in der christlichen Kirche",
+            "true": "D"
+        },
+        "Wie nennt man die Versammlung der Kardinäle zur Wahl eines Papstes?": {
+            "a": "Konklusion",
+            "b": "Konkubine",
+            "c": "Konklave",
+            "d": "Konkordat",
+            "true": "C"
+        },
+        "Wie hieß der Autor des 1904 erschienenen auto- biografischen Abenteuerromans \"Der Seewolf\"?": {
+            "a": "Mark Twain",
+            "b": "Henry Stanley",
+            "c": "Jack London",
+            "d": "George Orwell",
+            "true": "C"
+        },
+        "Wie hieß der Prinz der für Österreich im 17. und 18. Jahrhundert gegen die Türken kämpfte?": {
+            "a": "Beukelaer",
+            "b": "Blücher",
+            "c": "Albert",
+            "d": "Eugen",
+            "true": "D"
+        },
+        "Wer hat das Bild \"Frühstück im Freien\" gemalt?": {
+            "a": "Renoir",
+            "b": "Monet",
+            "c": "Manet",
+            "d": "Courbet",
+            "true": "C"
+        },
+        "Wie tief ist die tiefste Stelle unter dem Meeresspiegel?": {
+            "a": "ca. 11.034 mtr.",
+            "b": "ca. 5.540 mtr.",
+            "c": "ca. 9.440 mtr.",
+            "d": "ca. 15.279 mtr.",
+            "true": "A"
+        },
+        "Wer wurde 1930 erster Fußball-Weltmeister?": {
+            "a": "England",
+            "b": "Italien",
+            "c": "Deutschland",
+            "d": "Uruguay",
+            "true": "D"
+        },
+        "Wann starb der dt. Dichter Theodor Storm?": {
+            "a": "1817",
+            "b": "1888",
+            "c": "1917",
+            "d": "1788",
+            "true": "B"
+        },
+        "Welches Drama von Hebbel erschien beim Erstdruck mit einem Druckfehler im Titel, der sich einbürgerte?": {
+            "a": "Genoveva",
+            "b": "Gyges und sein Ring",
+            "c": "Herodes und Mariamne",
+            "d": "Maria Magdalene",
+            "true": "D"
+        },
+        "Welcher Musicalstar war zu Karrierebeginn als Baby Frances Gumm bekannt?": {
+            "a": "Ginger Rogers",
+            "b": "Judy Garland",
+            "c": "Deanna Durbin",
+            "d": "Doris Day",
+            "true": "B"
+        },
+        "Was bedeutet der Name der Programmiersprache \"BASIC\"?": {
+            "a": "Business and Statistic Language",
+            "b": "Basic Language",
+            "c": "Business and Science Instruction Code",
+            "d": "Beginners All Purpose Symbolic Instruction Code",
+            "true": "D"
+        },
+        "Auf dem Cover welchen Albums laufen die Beatles über einen Zebrastreifen?": {
+            "a": "Abbey Road",
+            "b": "Rubber Soul",
+            "c": "A Hard Day's Night",
+            "d": "Sergeant Pepper",
+            "true": "A"
+        },
+        "Wie heißt die Hauptstadt von Hongkong ?": {
+            "a": "Victoria",
+            "b": "Makao",
+            "c": "Kingston",
+            "d": "Hongkong-City",
+            "true": "A"
+        },
+        "Wie heißt die älteste Form des elektrischen Kondensators?": {
+            "a": "Krakauer Kiste",
+            "b": "Genfer Glas",
+            "c": "Leidener Flasche",
+            "d": "Haager Büchse",
+            "true": "C"
+        },
+        "Wer schrieb \"Die neuen Leiden des jungen W.\"?": {
+            "a": "Jurek Becker",
+            "b": "Rainer Kunze",
+            "c": "Alfred Andersch",
+            "d": "Ulrich Plenzdorf",
+            "true": "D"
+        },
+        "Welches dieser Hühner gibt es wirklich?": {
+            "a": "Transistorhuhn",
+            "b": "Pfannenstielhuhn",
+            "c": "Kaugummihuhn",
+            "d": "Thermometerhuhn",
+            "true": "D"
+        },
+        "Wer schrieb das Gedicht \"Todesfuge\"?": {
+            "a": "Hermann Hesse",
+            "b": "Ingeborg Bachmann",
+            "c": "Hans Magnus Enzensberger",
+            "d": "Paul Celan",
+            "true": "D"
+        },
+        "Wo liegt Gizeh?": {
+            "a": "im Libanon",
+            "b": "in Israel",
+            "c": "in Libyen",
+            "d": "in Ägypten",
+            "true": "D"
+        },
+        "Wo findet man die Lemuren?": {
+            "a": "auf Madagaskar",
+            "b": "in der Tropfsteinhöhle",
+            "c": "an der Nebenniere",
+            "d": "im Kalender der Maya",
+            "true": "A"
+        },
+        "Welcher Staat wurde um 540 v.Chr. zur bedeutendsten Seemacht?": {
+            "a": "Persien",
+            "b": "Sparta",
+            "c": "Karthago",
+            "d": "Portugal",
+            "true": "C"
+        },
+        "In welcher sportlichen Disziplin werden mit Flops Weltrekorde erzielt?": {
+            "a": "Hochsprung",
+            "b": "Diskuswerfen",
+            "c": "Springreiten",
+            "d": "Bogenschießen",
+            "true": "A"
+        },
+        "Wer malte das bekannte Bild\n„Seerosenteich“?": {
+            "a": "van Gogh",
+            "b": "Monet",
+            "c": "Picasso",
+            "d": "Miró",
+            "true": "B"
+        },
+        "Wer erfand 1878 das Mikrophon?": {
+            "a": "Werner von Siemens",
+            "b": "Thomas Alva\nEdison",
+            "c": "Nikolaus August\nOtto",
+            "d": "David Edward\nHughes",
+            "true": "D"
+        },
+        "Wie bezeichnet man einen\nBriefmarkensammler?": {
+            "a": "Philatelisten",
+            "b": "Numismatiker",
+            "c": "Ornithologe",
+            "d": "Anguisten",
+            "true": "A"
+        },
+        "Was sehen Sie, wenn Sie einen\n„Lycalopex“ beobachten?": {
+            "a": "Einen Fuchs",
+            "b": "Einen Stern",
+            "c": "Einen Fisch",
+            "d": "Einen Vulkan",
+            "true": "A"
+        },
+        "Welches Land gehört nicht zu Afrika?": {
+            "a": "Liberia",
+            "b": "Sambuta",
+            "c": "Angola",
+            "d": "Botswana",
+            "true": "B"
+        },
+        "Welchen Teil des menschlichen\nKörpers nennt man „Humerus“?": {
+            "a": "Handwurzel",
+            "b": "Schienbein",
+            "c": "Kniescheibe",
+            "d": "Oberarmknochen",
+            "true": "D"
+        },
+        "Was versteht man unter „Mutismus“?": {
+            "a": "absichtliche\nStummheit",
+            "b": "angeborene\nBlindheit",
+            "c": "unkontrollierte\nZuckungen",
+            "d": "extreme\nAngstzustände",
+            "true": "A"
+        },
+        "Wie hieß Elvis Presley mit\nvollem Namen?": {
+            "a": "Elvis Tom Presley",
+            "b": "Elvis Aaron Presley",
+            "c": "Elvis Aiden Presley",
+            "d": "Elvis Ethan Presley",
+            "true": "B"
+        },
+        "Welche Besonderheit zeichnete\n„Freddy Krueger“ aus?": {
+            "a": "sein Handschuh\nmit 5 Klingen",
+            "b": "die Horror-Maske",
+            "c": "die lauten Schreie",
+            "d": "seine Augen",
+            "true": "A"
+        },
+        "In welcher Stadt wurde\nMarilyn Monroe geboren?": {
+            "a": "Seattle",
+            "b": "Houston",
+            "c": "New York",
+            "d": "Los Angeles",
+            "true": "D"
+        },
+        "Wann begann die Ausstrahlung\ndes Farbfernsehens in der BRD?": {
+            "a": "20. August 1968",
+            "b": "25. August 1967",
+            "c": "15. Juni 1965",
+            "d": "21. August 1966",
+            "true": "B"
+        },
+        "In welchem Jahr erschien der Hit\n„99 Luftballons“ von Nena?": {
+            "a": "1980",
+            "b": "1986",
+            "c": "1983",
+            "d": "1981",
+            "true": "C"
+        },
+        "Welche Bezeichnung ist keine\nKatzenrasse?": {
+            "a": "Barbet",
+            "b": "Don Sphynx",
+            "c": "Kanaani",
+            "d": "Abessinier",
+            "true": "A"
+        },
+        "Welches Tier verbirgt sich hinter\ndem Namen „Dornfinger\"": {
+            "a": "Ein Vogel",
+            "b": "Ein Fisch",
+            "c": "Eine Spinne",
+            "d": "Ein Frosch",
+            "true": "C"
+        },
+        "Wie schnell kann ein Elefant\nbei Gefahr laufen?": {
+            "a": "ca. 30km/h",
+            "b": "ca. 25km/h",
+            "c": "ca. 40km/h",
+            "d": "ca. 65km/h",
+            "true": "C"
+        },
+        "Bei welcher Verarbeitung verwendet\nman das Verfahren „Läppen“?": {
+            "a": "Metallverarbeitung",
+            "b": "Holzverarbeitung",
+            "c": "Glasverarbeitung",
+            "d": "Papierverarbeitung",
+            "true": "A"
+        },
+        "Wann merkt das Gehirn, daß der Magen voll ist?": {
+            "a": "Nach 5 Minuten",
+            "b": "Nach 30 Minuten",
+            "c": "Nach 10 Minuten",
+            "d": "Nach einer Minute",
+            "true": "C"
+        },
+        "Wie heißt die älteste Notenbank ?": {
+            "a": "die Bank von Zürich",
+            "b": "die Bank von Genf",
+            "c": "die Bank von England",
+            "d": "die Bank von Lissabon",
+            "true": "C"
+        },
+        "Wann war die russische Oktoberrevolution?": {
+            "a": "1917",
+            "b": "1617",
+            "c": "1817",
+            "d": "1717",
+            "true": "A"
+        },
+        "Unter welchem Namen ging Aurore Dupin in die Geschichte ein?": {
+            "a": "George Sand",
+            "b": "Simone de Beauvoir",
+            "c": "Virginia Woolf",
+            "d": "Gertrude Stein",
+            "true": "A"
+        },
+        "Aus wie vielen Zeilen besteht ein Limerick?": {
+            "a": "6",
+            "b": "5",
+            "c": "7",
+            "d": "8",
+            "true": "B"
+        },
+        "In welcher Einheit wird die elektrische Stromstärke angegeben?": {
+            "a": "Ampere",
+            "b": "Watt",
+            "c": "Volt",
+            "d": "Ohm",
+            "true": "A"
+        },
+        "Wie lautet das Plusquamperfekt von \"Ich spiele\"?": {
+            "a": "Ich habe gespielt",
+            "b": "Ich werde spielen",
+            "c": "Ich hatte gespielt",
+            "d": "Ich spielte",
+            "true": "C"
+        },
+        "Was ist ein Howdah?": {
+            "a": "Ein Sitz auf dem Rücken eines Elefanten",
+            "b": "islamischer Religionsgelehrter",
+            "c": "Schrittzähler",
+            "d": "Ein indianischer Ausruf",
+            "true": "A"
+        },
+        "Wie heißen die Ureinwohner Australiens?": {
+            "a": "Aborigines",
+            "b": "Pygmäen",
+            "c": "Tuareg",
+            "d": "Maya",
+            "true": "A"
+        },
+        "Mit welcher Nummer werden Wertpapiere gekennzeichnet?": {
+            "a": "IBAN",
+            "b": "ISDN",
+            "c": "ISBN",
+            "d": "ISIN",
+            "true": "D"
+        },
+        "Wie heißt die Kunst des Blumensteckens?": {
+            "a": "Origami",
+            "b": "Tangram",
+            "c": "Ikebana",
+            "d": "Kamasutra",
+            "true": "C"
+        },
+        "Wo gibt es Schusterjungen und Hurenkinder?": {
+            "a": "In der Schreinerei",
+            "b": "In der Setzerei",
+            "c": "In der Bäckerei",
+            "d": "In der Schuhmacherei",
+            "true": "B"
+        },
+        "In welchem Bundesland liegt die Stadt\nBochum?": {
+            "a": "Rheinland-Pfalz",
+            "b": "Hessen",
+            "c": "Sachsen",
+            "d": "Nordrhein-Westfalen",
+            "true": "D"
+        },
+        "Wie lang ist der Rhein?": {
+            "a": "870 km",
+            "b": "1 320 km",
+            "c": "2 705 km",
+            "d": "350 km",
+            "true": "B"
+        },
+        "Welches Auto war in der DDR\nweitverbreitet?": {
+            "a": "Renault",
+            "b": "Trabbi",
+            "c": "VW",
+            "d": "Mercedes AMG",
+            "true": "B"
+        },
+        "Wie lautet das KFZ-Kennzeichen für\nDeutschland?": {
+            "a": "DEU",
+            "b": "GER",
+            "c": "DE",
+            "d": "D",
+            "true": "C"
+        },
+        "Von welchem Philosophen stammt der\nSatz „Gott ist tot!“?": {
+            "a": "Immanuel Kant",
+            "b": "Friedrich Nietzsche",
+            "c": "Friedrich Hegel",
+            "d": "Ludwig Wittgenstein",
+            "true": "B"
+        },
+        "Mit der Vorwahl 0651 erreicht man einen\nTeilnehmer in …": {
+            "a": "Koblenz",
+            "b": "Mainz",
+            "c": "Trier",
+            "d": "Berlin",
+            "true": "C"
+        },
+        "Welche bekannten Sportler kommen aus\nDeutschland?": {
+            "a": "Boris Becker",
+            "b": "Neymar",
+            "c": "Christiano Ronaldo",
+            "d": "Pelé",
+            "true": "A"
+        },
+        "Wer gehört nicht zu den Siegern von DSDS?": {
+            "a": "Alexander Klaws",
+            "b": "Mark Medlock",
+            "c": "Elli Erl",
+            "d": "Roger Cicero",
+            "true": "D"
+        },
+        "Wie hoch ist die durchschnittliche Kinder-\nzahl je Frau in Deutschland?": {
+            "a": "1,4",
+            "b": "3,2",
+            "c": "1,9",
+            "d": "2,2",
+            "true": "A"
+        },
+        "Welcher ist der Kinofilm mit den meisten\nBesuchern?": {
+            "a": "Das Dschungelbuch",
+            "b": "Fluch der Karibik",
+            "c": "Keinohrhasen",
+            "d": "Harry Potter und der Stein der Weisen",
+            "true": "A"
+        },
+        "Wie viele McDonals-Filialen gibt es in\nDeutschland?": {
+            "a": "2111",
+            "b": "528",
+            "c": "1333",
+            "d": "5234",
+            "true": "C"
+        },
+        "Welches ist das ertragreichste Hopfenan-\nbaugebiet der Welt?": {
+            "a": "Hallertau/Holledau",
+            "b": "Schwarzwald",
+            "c": "Franken",
+            "d": "Köln",
+            "true": "A"
+        },
+        "Aus welchem Land stammt das Gericht Sushi?": {
+            "a": "Thailand",
+            "b": "Japan",
+            "c": "Indien",
+            "d": "Frankreich",
+            "true": "B"
+        },
+        "Wie viele Tage brauchte Gott laut Altem Testament, um die Welt zu erschaffen?": {
+            "a": "1",
+            "b": "6",
+            "c": "7",
+            "d": "11",
+            "true": "B"
+        },
+        "Welches ist das bevölkerungsreichste Land der Welt": {
+            "a": "China",
+            "b": "Amerika",
+            "c": "Indien",
+            "d": "Brasilien",
+            "true": "A"
+        },
+        "Wie viel Prozent der Erdoberfläche besteht aus Wasser?": {
+            "a": "10%",
+            "b": "50%",
+            "c": "70%",
+            "d": "95%",
+            "true": "C"
+        },
+        "In welchem Fall solltest du Antibiotika einnehmen?": {
+            "a": "Virenbefall",
+            "b": "Bei bakteriellen Infektionen",
+            "c": "Niemals",
+            "d": "Wenn immer du dich krank fühlst",
+            "true": "B"
+        },
+        "Warum werden Französisch, Spanisch und Italienisch als romanische Sprachen bezeichnet?": {
+            "a": "Sie klingen romantisch.",
+            "b": "Sie haben ihre Wurzeln im Lateinischen, das von den Römern gesprochen wurde.",
+            "c": "Sie werden nur von den Roma gesprochen.",
+            "d": "Sie wurden von den Rumänen verbreitet.",
+            "true": "B"
+        },
+        "Wie viele Monde hat die Erde?": {
+            "a": "0",
+            "b": "1",
+            "c": "2",
+            "d": "5",
+            "true": "B"
+        },
+        "Circa wie viele Länder gibt es auf der Erde?": {
+            "a": "50",
+            "b": "100",
+            "c": "200",
+            "d": "400",
+            "true": "C"
+        },
+        "Welches dieser Gewässer ist keines der großen Weltmeere?": {
+            "a": "Arktischer Ozean",
+            "b": "Pazifischer Ozean",
+            "c": "Indischer Ozean",
+            "d": "Amerikanischer Ozean",
+            "true": "D"
+        },
+        "Was ist die offizielle Sprache der USA?": {
+            "a": "Englisch",
+            "b": "Lateinisch",
+            "c": "Spanisch",
+            "d": "Es gibt keine.",
+            "true": "D"
+        },
+        "Wo befindet sich das Land Ägypten?": {
+            "a": "Südamerika",
+            "b": "Afrika",
+            "c": "Europa",
+            "d": "Asien",
+            "true": "B"
+        }
+    }
+}
