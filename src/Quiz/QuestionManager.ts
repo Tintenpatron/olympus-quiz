@@ -53,7 +53,7 @@ export const clearQuestion = async (): Promise<void> => {
 }
 
 export const loadQuestions = async (): Promise<void> => {
-    let rawData: string = fs.readFileSync("../fragen.json").toString().trim();
+    let rawData: string = fs.readFileSync("./fragen.json").toString().trim();
     let rawQuestions: any = JSON.parse(rawData)["question"];
     let keys: string[] = Object.keys(rawQuestions);
     let values: any[] = Object.values(rawQuestions);
